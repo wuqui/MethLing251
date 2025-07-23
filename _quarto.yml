@@ -48,7 +48,7 @@ website:
     
     right:
       - icon: github
-        href: https://github.com/YOUR_USERNAME/2025-1_ue_methods
+        href: https://github.com/wuqui/MethLing251
         
 format:
   html:
@@ -60,7 +60,6 @@ format:
     number-sections: true
     highlight-style: github
     code-fold: true
-    code-tools: true
 
 
 

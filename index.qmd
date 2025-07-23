@@ -25,6 +25,9 @@ The course consists of 12 sessions covering fundamental research methods:
 
 ## Session Materials
 
+The first sessions are currently available at
+<https://publish.obsidian.md/methling251/proj/MethLing251/MethLing251>. They will be moved here soon.
+
 ### Available Sessions
 
 - **[Session 07: Corpus Linguistics 2](07_corpus-linguistics-2/slides.html)** - Advanced corpus analysis techniques
