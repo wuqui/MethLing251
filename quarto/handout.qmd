@@ -1,0 +1,152 @@
+---
+title: "Self-management and taking notes - Handout"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+format: pdf
+---
+
+# Course Schedule
+
+| Date    | Topic                                          |
+| ------- | -----------------------------------------------|
+| 23 Apr. | Organisation and introduction                  |
+| 14 May  | Self-management and taking notes               |
+| 21 May  | Research questions and hypotheses              |
+| 28 May  | Reference management & reading                 |
+| 04 Jun. | Dictionaries                                   |
+| 11 Jun. | Corpus linguistics: theory and methods         |
+| 18 Jun. | Corpus linguistics: use cases and applications |
+| 25 Jun. | Questionnaires & interviews                    |
+| 02 Jul. | Analysing data 1                               |
+| 09 Jul. | Analysing data 2                               |
+| 16 Jul. | Writing                                        |
+| 23 Jul. | Wrap-up                                        |
+
+# Note-taking
+
+## Plain Text
+
+- Guide: [plain-text.co](https://plain-text.co/)
+- Advantages 
+    - interoperability 
+        - over time 
+        - with different tools 
+        - with other people 
+    - editing experience: speed, copy & pasting etc. 
+    - export to different formats: `docx`, `html`, `pdf` 
+    - version control via `git`
+- most popular format: Markdown
+
+### Networked Notes
+
+#### Mental Lexicon
+![](att/mental-lexicon.png)
+
+#### Networked Notes (Concept)
+![](att/networked-notes.png)
+
+#### Zettelkasten Method
+![](att/zettelkasten-method.png)
+
+- Origin: Sociologist Niklas Luhmann
+- Book: Ahrens (2017): *Das Zettelkasten-Prinzip*
+- Website: [zettelkasten.de](https://zettelkasten.de/)
+
+## Tools
+
+- free options
+  - **[Obsidian](https://obsidian.md/)**
+  - Logseq 
+- paid: e.g. [Notion](https://www.notion.so/)
+
+# Self-management
+
+## General Principles
+- Keep it **simple**, both in terms of planning and tools.
+- Almost any **system** can work, as long as it's a system and you use it consistently.
+
+## Setting SMART Goals
+![](att/smart-goals.png)
+
+## Managing TODOs
+
+- Include all your TODOs (from other projects, private commitments).
+- Set TODOs the right way:
+  - **Actionable**
+  - Have a **date** (scheduled start & deadline)
+- Make a **plan** (weekly & daily time slots).
+- **Review** your days, weeks, months, year.
+
+## Prioritising Tasks
+
+### Eisenhower Matrix
+![](att/eisenhower-matrix.png)
+
+### Marbles in a Jar
+
+![](att/marbles-jar.png)
+
+[Watch Video: Marbles in a Jar](https://www.youtube.com/watch?v=SqGRnlXplx0)
+
+### Pareto's Law
+
+![](paretos-law.png)
+
+- 20% of actions can give 80% of results.
+- The remaining 20% of results will require 80% of the time.
+
+## Tools for TODOs
+- Pen and paper
+- Digital tools, e.g., [Todoist](https://todoist.com/)
+- Note-taking apps like Logseq/Obsidian
+
+## Frameworks for Productivity
+- [Getting Things Done (GTD)](https://gettingthingsdone.com/) by David Allen
+- [Zen to Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/) by Leo Babauta (a simpler version of GTD)
+
+## Making a Time Plan
+
+- Start with the **end** in mind: work backwards from the deadline.
+- Use **buffers**: everything takes longer than we think.
+- Tools:
+  - Calendar
+  - Gantt Charts
+    - ![](att/gantt-chart.png)
+
+## Further Reading
+- Cottrell (2013): *The Study Skills Handbook*, pp. 121–150.
+
+## Practice: Make a Time Plan
+
+- **Project Agenda / Key Stages:**
+  - Determine topic, research questions, hypotheses
+  - Find and read previous literature
+  - Collect and pre-process data
+  - Conduct analysis, gather results
+  - Write the paper
+  - Revise your writing
+
+- **Tools for Planning:**
+  - Pen and paper
+  - Digital calendar
+  - [TeamGantt](https://www.teamgantt.com/) or similar
+    - ![](att/teamgantt-example.png)
+
+# Exercises
+
+## Taking notes with Obsidian
+1. Install Obsidian from [obsidian.md](https://obsidian.md/)
+2. Create a new vault
+3. Set up your workspace
+   - Create a folder for your research questions
+   - Create a folder for course materials
+4. Start drafting your research questions
+   - Use Markdown formatting
+   - Create links between related concepts
+   - Use the graph view to visualise connections
+5. Export your notes as PDF for submission
+
+## Self-management
+- Create a Gantt chart for your research project
+- Include all major milestones and deadlines
+- Share with your supervisor for feedback 

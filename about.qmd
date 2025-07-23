@@ -1,0 +1,48 @@
+---
+title: "About"
+---
+
+## About This Course
+
+**Methods in Linguistics** (MethLing251) is a practical research methods course offered at Ludwig-Maximilians-Universität München (LMU Munich). The course is designed to provide students with hands-on experience in linguistic research methodology.
+
+## Instructor
+
+**Dr. Quirin Würschinger**  
+Institut für Englische Philologie  
+Ludwig-Maximilians-Universität München
+
+## Course Information
+
+- **Course Code**: MethLing251
+- **Duration**: 12 sessions, 90 minutes each
+- **Format**: Interactive seminars with practical exercises
+- **Level**: Undergraduate/Graduate
+
+## Learning Approach
+
+This course emphasises:
+
+- **Hands-on practice** with real research tools
+- **Interactive learning** through pair work and group discussions
+- **Practical application** of methodological concepts
+- **Critical thinking** about research design and analysis
+
+## Technical Information
+
+This website is built with [Quarto](https://quarto.org) and hosted on GitHub Pages. All course materials are available in both presentation and handout formats.
+
+### Website Features
+
+- Responsive design for desktop and mobile viewing
+- Interactive navigation between sessions
+- Downloadable presentation materials
+- Integrated code examples and exercises
+
+## Contact
+
+For questions about the course content or website, please contact the instructor through the official university channels.
+
+---
+
+*This website serves as a companion to the in-person course sessions and provides accessible versions of all course materials.*

@@ -1,0 +1,11 @@
+/* shrink everything */
+.reveal .slides {
+  font-size: 0.7em;
+}
+/* headings a bit larger relative to body */
+.reveal h1 { font-size: 1.5em; }
+.reveal h2 { font-size: 1.1em; }
+
+.small {
+  font-size: 0.7em;
+}

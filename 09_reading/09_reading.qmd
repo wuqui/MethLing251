@@ -1,0 +1,167 @@
+---
+title: "Reading"
+subtitle: "Methods in Linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-07-02"
+date-format: long
+bibliography: references.bib
+format:
+  clean-revealjs:
+    slide-level: 0
+    slide-number: true
+    css: custom.css
+    # min-scale: 0.2
+    # max-scale: 2.0
+    incremental: true
+---
+
+# Reading
+
+## What to read?
+
+::: {.notes}
+12:20–12:25 (5m)
+:::
+
+- **Start general**: Begin with introductions for a broader picture.
+- **Narrow down**: Focus on specific articles and theoretical concepts.
+- **Refine keywords**: Gradually build a keyword list for the research area.
+- **Skim for relevance**: If unsure, read the abstract, ToC, or index for keywords.
+- **Include recent work**: Make sure to cover the latest publications on your topic.
+- **Reach saturation**: Your reading is likely complete when you see the same sources repeatedly.
+
+___
+
+## How to read?
+
+::: {.notes}
+12:25–12:35 (10m)
+:::
+
+### Modes of reading
+
+- **Scanning**: Quick reading, looking for key words.
+- **Skimming**: Cross-reading the whole text to identify key passages.
+- **Selective reading**: Reading only passages relevant to your topic.
+- **Close reading**: Careful, critical reading of the full text, often involving notes.
+- **Creative reading**: Reading with an open mind for inspiration.
+
+___
+
+### The SQ4R method
+
+::: {.notes}
+12:35–12:40 (5m)
+:::
+
+![The SQ4R method of reading](att/sq4r.jpg){fig-alt="Diagram of the SQ4R method: Survey, Question, Read, Recite, Relate, Review." width="800"}
+
+**Recite**: also **relate** the information to relevant concepts related to your topic.
+
+___
+
+## Reading & writing
+
+::: {.notes}
+12:40–12:45 (5m)
+:::
+
+- **Linked processes**: Reading with a topic in mind is always tightly linked to writing.
+- **Produce excerpts**: For core texts, process the information in your own words rather than just rewriting.
+
+___
+
+::: {.small}
+
+## First reading
+
+- **Get an overview**: Gain a general picture and outline of the text.
+- **Note the structure**: Write down headings, chapters, and sections.
+- **Indicate irrelevant parts**: Mark sections that are not useful for your work.
+
+## Second reading
+
+- **Identify topics**: Note the topic of each chapter, section, and paragraph.
+- **Summarise**: Write a summary for each part of the text.
+- **Note sources**: Keep track of important authors for further reading.
+- **Record quotes**: Write down possible quotations with page numbers.
+- **Find examples**: Note helpful examples, tables, and figures.
+- **Link to your work**: Summarise relevant aspects and connect them to your research questions.
+- **Add personal notes**: Make notes about questions, unclear points, or links to other texts.
+
+:::
+
+___
+
+## Highlighting and marking
+
+::: {.notes}
+12:45–12:50 (5m)
+:::
+
+- **Work on the text**: Use a PDF or photocopy to highlight and mark information directly.
+- **Use colours**: Employ a colour-coding system to work out the text's structure.
+- **Highlight key info**: Mark names, definitions, examples, and quotes in different ways.
+- **Comment in margins**: Add keywords, paraphrases, and summaries on the sides.
+- **Cross out irrelevant parts**: Strike through passages that are not important for your work.
+- **Use post-its**: Add notes for cross-references, your own ideas, or problematic passages.
+- **Leverage tools**: This works very well with Zotero's built-in PDF reader.
+
+___
+
+## Visualisations
+
+::: {.notes}
+12:50–12:52 (2m)
+:::
+
+![](att/visualisations.png){fig-alt="A screenshot showing a PDF open in a reader with extensive annotations, highlights in different colours, and comments in the margin." width="700"}
+
+___
+
+::: {.small}
+
+## Strategies for difficult passages
+
+::: {.notes}
+12:52–13:00 (8m)
+cf. @Cottrell2013StudySkills, pp. 168f.
+:::
+
+If you have the feeling that you don't understand what you're reading or that you cannot make sense of it, check the following issues:
+
+1.  Make sure you have the necessary **theoretical background** for the text – if not, go back to a more general, introductory text.
+2.  Try to briefly **sum up** what you have read after a few sentences.
+3.  Try to read with a **specific question** in mind in order to get an answer from the text. If (2) or (3) do not work, re-read the passage, read it aloud.
+4.  **Highlight** and colour-code relevant notions (see section on highlighting).
+5.  Ask questions:
+    -   What does the author want to show?
+    -   Is there a particular question behind this passage?
+    -   Why is the passage relevant? Is it relevant for my topic?
+    -   What do I learn from this?
+
+:::
+
+___
+
+## Critical evaluation
+
+::: {.notes}
+13:00–13:10 (10m)
+Break: 13:00–13:05
+cf. @Cottrell2013StudySkills, pp. 187–196
+:::
+
+- **Evaluate reasoning**: Is the information relevant, logical, and not circular?
+- **Check structure**: Does the text have a logical flow?
+- **Verify explanations**: Are aspects explained before they are applied?
+- **Assess evidence**: Is there appropriate and reliable evidence to support claims? Are any issues missing?
+- **Analyse conclusions**: Do the conclusions make sense? Are they well-supported by the evidence?
+
+___
+
+# References
+
+::: {.notes}
+Wrap up.
+:::

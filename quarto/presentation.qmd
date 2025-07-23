@@ -1,0 +1,34 @@
+---
+title: "Self-management and \ taking notes"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    # incremental: true
+    code-fold: true
+    slide-level: 1
+    css: styles.css
+    fontScale: 0.2    # 80% of the default size
+
+---
+
+# Course Schedule
+
+<!-- ::: {.small} -->
+| Date    | Topic                                          |
+| ------- | -----------------------------------------------|
+| 23 Apr. | Organisation and introduction                  |
+| 14 May  | Self-management and taking notes               |
+| 21 May  | Research questions and hypotheses              |
+| 28 May  | Reference management & reading                 |
+| 04 Jun. | Dictionaries                                   |
+| 11 Jun. | Corpus linguistics: theory and methods         |
+| 18 Jun. | Corpus linguistics: use cases and applications |
+| 25 Jun. | Questionnaires & interviews                    |
+| 02 Jul. | Analysing data 1                               |
+| 09 Jul. | Analysing data 2                               |
+| 16 Jul. | Writing                                        |
+| 23 Jul. | Wrap-up                                        |
+<!-- ::: -->

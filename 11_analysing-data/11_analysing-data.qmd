@@ -1,0 +1,424 @@
+---
+title: "Analysing Data"
+subtitle: "Seminar 'Methods in Linguistics'"
+author: "Quirin Würschinger, LMU Munich"
+date: 2025-07-16
+date-format: long
+format:
+  clean-revealjs:
+    slide-level: 2
+    # min-scale: 0.2
+    # max-scale: 2.0
+    height: 800
+css: custom.css
+bibliography: references.bib
+---
+
+# Introduction
+
+::: {.notes}
+- 12:15–12:17 Introduction and overview
+- Session focuses on quantitative data analysis for linguistic research
+- Building on previous sessions on corpus linguistics and data collection
+:::
+
+## Session Overview
+
+- **First half**: 
+    - Statistical concepts 
+    - data organisation
+- **Second half**: Practical analysis with Excel and corpus tools
+
+## Learning Objectives
+
+- Understand basic statistical concepts for linguistic research
+- Learn principles of tidy data organisation
+- Practice data analysis using Microsoft Excel
+- Apply statistical methods to corpus data
+
+# Descriptive vs. Inferential Statistics
+
+::: {.notes}
+- 12:17–12:20 Core distinction between descriptive and inferential statistics
+- Foundation for understanding when to use different statistical approaches
+:::
+
+![Descriptive vs. Inferential Statistics](att/descriptive-vs-inferential.png){width="600"}
+
+## Descriptive Statistics
+
+**Definition**: Summarise and organise characteristics of a data set
+
+**Linguistic Example**: 
+
+- Number of requests made by males vs. females in conversations
+- Average, range, most common number of requests
+
+**Excel Functions**: 
+
+- `AVERAGE`, `COUNT`, `MIN`, `MAX`, `STDEV.S`, `VAR.S`
+
+## Inferential Statistics
+
+**Definition**: Use sample data to make inferences about populations
+
+**Linguistic Example**:
+- Test if there's a significant difference in requests between males and females
+- Use sample data to infer about broader population patterns
+
+**Excel Tools**: 
+
+- Data Analysis add-in, t-Tests, ANOVA, regression analysis
+
+# Normal Distribution and Standard Deviation
+
+::: {.notes}
+- 12:20–12:25 Understanding data distribution and variability
+- Key concepts for interpreting linguistic data patterns
+:::
+
+![Normal Distribution](att/normal-distribution.png){width="500"}
+
+## Normal Distribution
+
+**Definition**: Symmetric probability distribution around the mean (bell curve)
+
+**Linguistic Examples**:
+
+- Word frequencies in large corpora
+- Sentence length distributions
+- Response times in psycholinguistic experiments
+
+**Key Properties**:
+
+- 68% of data within ±1 standard deviation
+- 95% of data within ±2 standard deviations
+- 99.7% of data within ±3 standard deviations
+
+## Variance and Standard Deviation {.small}
+
+**Variance**: Measure of spread from the mean
+
+**Standard Deviation**: Square root of variance, in same units as data
+
+**Mathematical Formula**:
+
+$$\text{Variance} = \frac{\sum_{i=1}^{n} (x_i - \bar{x})^2}{n}$$
+
+
+Where: $x_i$ = individual data points; $\bar{x}$ = mean of the data; $n$ = number of observations.
+
+**Excel Functions**:
+
+- Population: `VAR.P`, `STDEV.P`
+- Sample: `VAR.S`, `STDEV.S`
+
+**Linguistic Application**: Measuring variability in word frequencies across different text types
+
+# Measures of Central Tendency
+
+::: {.notes}
+- 12:25–12:30 Three key measures and when to use each
+- Practical examples with linguistic data
+:::
+
+![Measures of Central Tendency](att/central-tendency.png){width="600"}
+
+## Mean, Median, Mode {.small}
+
+**Example**: Sentence lengths: [8, 8, 10, 12, 35]{.mark}
+
+. . .
+
+**Mean**: Average value
+
+::: {.fragment}
+```{python}
+#| echo: true
+(8 + 8 + 10 + 12 + 35) / 5
+```
+
+- **Result**: [14.6 words]{.mark}
+- **Sensitive to outliers**
+:::
+
+**Median**: Middle value in ordered set
+
+::: {.fragment}
+- **Result**: [10 words]{.mark}
+- **Robust to outliers**
+:::
+
+**Mode**: Most frequent value
+
+::: {.fragment}
+- **Result**: [8 words]{.mark}
+- **Shows most common pattern**
+:::
+
+. . .
+
+**When to Use Each Measure**
+
+- **Mean**: When data is normally distributed
+- **Median**: When data has outliers or is skewed
+- **Mode**: For categorical data or identifying common patterns
+
+
+# Significance Testing
+
+::: {.notes}
+- 12:30–12:35 Statistical testing for linguistic research
+- Focus on practical Excel applications
+:::
+
+## Key Concepts {.small}
+
+- **Null Hypothesis (H₀)**: No effect or difference exists
+- **Alternative Hypothesis (H₁)**: Effect or difference exists
+- **p-value**: Probability of observing data if H₀ is true
+
+. . .
+
+**Linguistic Examples**:
+
+- **H₀**: No difference in request frequency between male and female speakers
+  - **H₁**: Female speakers use more requests than male speakers
+- **H₀**: No correlation between text length and lexical diversity
+  - **H₁**: Longer texts have higher lexical diversity scores
+- **H₀**: No difference in word length between formal and informal registers
+  - **H₁**: Formal registers contain longer words than informal registers
+
+. . .
+
+**Conventional Decision Rules**:
+
+- p ≤ 0.05: Reject H₀ (significant result)
+- p > 0.05: Fail to reject H₀
+
+Danger: "p-hacking"
+
+## Excel Statistical Functions
+
+### T.TEST()
+
+- **Purpose**: Compare means between two groups
+- **Linguistic Applications**:
+    - Compare word lengths between corpora
+    - Analyse sentence complexity across genres
+    - Evaluate grammatical structure frequencies
+- **Syntax**: `=T.TEST(array1, array2, tails, type)`
+
+
+::: {.fragment}
+### CHISQ.TEST()
+
+- **Purpose**: Test independence between categorical variables
+- **Linguistic Applications**:
+    - Parts of speech distribution across genres
+    - Text type vs. linguistic feature relationships
+- **Syntax**: `=CHISQ.TEST(observed_range, expected_range)`
+:::
+
+# True and False Positives {.small}
+
+::: {.notes}
+- 12:35–12:40 Understanding accuracy in corpus searches
+- Important for evaluating search query effectiveness
+:::
+
+![Confusion Matrix](att/confusion-matrix.png){width="500"}
+
+**Example**: Searching for sentences containing requests
+
+- **True Positive (TP)**: Query correctly identifies a request
+- **False Positive (FP)**: Query incorrectly identifies non-request as request
+- **True Negative (TN)**: Query correctly identifies non-request
+- **False Negative (FN)**: Query misses a real request
+
+
+## Evaluation Metrics
+
+- **Accuracy**: 
+    - Overall correctness
+    - $\frac{TP + TN}{TP + TN + FP + FN}$
+- **Precision**: 
+    - How many identified items are correct
+    - $\frac{TP}{TP + FP}$
+- **Recall**: 
+    - How many actual items were found
+    - $\frac{TP}{TP + FN}$
+- **F1-Score**: 
+    - Harmonic mean of precision and recall
+    - $2 * \frac{Precision * Recall}{Precision + Recall}$
+
+
+# Frequency Measures
+
+::: {.notes}
+- 12:40–12:45 Understanding frequency in corpus linguistics
+- Practical examples from different corpus platforms
+:::
+
+## Absolute vs. Relative Frequency
+
+- **Absolute Frequency**: Raw count of occurrences
+- **Relative Frequency**: Per million words (normalised)
+
+## Corpus Platform Examples
+
+### English-Corpora.org
+![COHA Query Results](att/english-corpora-phone.png){width="600"}
+
+- `FREQ`: Absolute frequency
+- `WORDS (M)`: Corpus size in millions
+- `PER MIL`: Relative frequency per million words
+
+___
+
+### Sketch Engine
+![Gutenberg Query Results](att/sketch-engine-phone.png){width="600"}
+
+- `Number of hits`: Absolute frequency
+- `Number of hits per million tokens`: Relative frequency
+
+
+# Tidy Data Principles
+
+::: {.notes}
+- 12:45–12:50 Data organisation principles
+- Foundation for effective analysis
+:::
+
+## Hadley Wickham's Tidy Data Rules
+
+1. **Each observation forms a row**
+   - Every single observation in a different row
+2. **Each variable forms a column**
+   - Clear visibility and easy manipulation
+3. **Each type of observational unit forms a table**
+   - Different units in different sheets/tables
+4. **Column names should be descriptive**
+   - Clear, informative headers
+5. **Store metadata separately**
+   - Data collection process, coding guides
+6. **Avoid wide format, favour long format**
+   - More rows, fewer columns
+7. **DRY: Don't Repeat Yourself**
+   - Use pivot tables, avoid duplication
+
+# Excel Best Practices
+
+::: {.notes}
+- 12:50–12:55 Practical Excel tips for linguistic data analysis
+- Focus on efficiency and accuracy
+:::
+
+## Organisational Tips
+
+- Use **new tabs** for analyses (keep raw data separate)
+- Create **tables** for structured data
+- Use **pivot tables** for powerful analysis
+- Create **pivot charts** for visualisation
+
+![Pivot Chart Example](att/pivot-chart.png){width="600"}
+
+## Data Management
+
+- **Backup** your raw data
+- **Document** your analysis steps
+- **Use formulas** instead of manual calculations
+- **Validate** your data entry
+
+# Practice: Shortening Analysis
+
+::: {.notes}
+- 12:55–13:00 Introduction to practical exercise
+- Based on Hilpert's work on construction grammar
+:::
+
+## Research Context {.small}
+
+[@Hilpert2023Meaning]
+
+![Hilpert's Clipping Analysis](att/hilpert-clipping.png)
+
+**Background**: Analysing clipping patterns in English: source words (e.g., *brother*) and clipped forms (e.g., *bro*)
+
+**Research Question**: How do clipping pairs vary in frequency of use (across text types) and in terms of meaning?
+
+## Overview
+
+1. Extract a set of clippings from the OED.
+2. Analyse their morphological features in Excel.
+3. Study their overall frequency using Sketch Engine.
+
+
+## 1. Retrieving clippings from the OED 
+
+1. use `Advanced Search`
+2. order by `Date (newest first)`
+3. export as `csv`
+
+
+## 2. Analyse their morphological features in Excel 
+
+Model sheet: <https://1drv.ms/x/c/9a2ec97d593520f9/Ebpx8y_9sQZMjoL7cr0egkABLIrmcgPCLjOcoKRA7yIZ7Q>
+
+1. Most frequent word classes?
+1. Most frequent word-formation types?
+3. Distribution across date of use?
+3. Distribution across subjects?
+
+
+## 3. Study their overall frequency using Sketch Engine 
+
+Model sheet: <https://1drv.ms/x/c/9a2ec97d593520f9/EfKdCQluHJZEimPLisZGKTwBN3QH-kLcXyDCfzC0CRk5DQ>
+
+**Basic frequency measures:**
+
+- absolute frequency
+- relative frequency
+
+**Frequency distribution across:**
+
+- Genre
+- Topic
+
+
+# Key Takeaways {.small}
+
+::: {.notes}
+- 13:15–13:17 Summary of main concepts
+- Connection to broader research methods
+:::
+
+**Statistical Foundations**
+
+- **Descriptive statistics** summarise your data
+- **Inferential statistics** test hypotheses
+- **Normal distribution** provides baseline expectations
+- **Central tendency measures** capture typical values
+
+. . .
+
+**Data Organisation**
+
+- **Tidy data** principles enable efficient analysis
+- **Excel tools** support powerful visualisation
+- **Documentation** ensures reproducibility
+
+. . .
+
+**Research Applications**
+
+- **Corpus linguistics** benefits from statistical analysis
+- **Frequency measures** reveal usage patterns
+- **Significance testing** validates findings
+
+# References
+
+::: {.notes}
+- 13:17–13:18 Academic references for further reading
+- End with proper academic citation format
+:::

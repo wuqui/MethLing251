@@ -1,0 +1,63 @@
+---
+title: "Methods in Linguistics"
+subtitle: "MethLing251 - LMU Munich"
+author: "Quirin Würschinger"
+date-modified: last-modified
+---
+
+## Course Overview
+
+Welcome to **Methods in Linguistics** (MethLing251), a comprehensive course designed to equip students with essential research methodologies for linguistic studies.
+
+### Course Objectives
+
+This course provides practical training in:
+
+- Research planning and project management
+- Literature review and reference management  
+- Data collection methods (corpus linguistics, surveys, interviews)
+- Statistical analysis and data visualisation
+- Academic writing and presentation skills
+
+### Course Structure
+
+The course consists of 12 sessions covering fundamental research methods:
+
+## Session Materials
+
+### Available Sessions
+
+- **[Session 07: Corpus Linguistics 2](07_corpus-linguistics-2/slides.html)** - Advanced corpus analysis techniques
+- **[Session 08: Questionnaires & Interviews](08_questionnaires-interview/questionnaires-interviews.html)** - Data collection methods
+- **[Session 09: Reading](09_reading/09_reading.html)** - Systematic literature review strategies  
+- **[Session 10: Writing](10_writing/10_writing.html)** - Academic writing principles
+- **[Session 11: Analysing Data](11_analysing-data/11_analysing-data.html)** - Statistical analysis and visualisation
+- **[Session 12: Wrap-up](12_wrap-up/12_wrap-up.html)** - Course synthesis and future directions
+
+## Key Resources
+
+### Essential Tools
+- **Zotero** - Reference management
+- **Excel** - Data analysis and visualisation
+- **Sketch Engine** - Corpus analysis
+- **Google Forms** - Survey creation
+- **COCA** - Corpus of Contemporary American English
+
+### Learning Outcomes
+
+By the end of this course, students will be able to:
+
+1. Design and implement linguistic research projects
+2. Conduct systematic literature reviews
+3. Collect and analyse linguistic data using various methods
+4. Apply statistical thinking to linguistic research
+5. Write clear, evidence-based academic papers
+6. Present research findings effectively
+
+## Getting Started
+
+Begin with [Session 07](07_corpus-linguistics-2/slides.html) or explore the full course materials using the navigation menu above.
+
+---
+
+*Course materials are continuously updated. Last modified: {{< meta date-modified >}}*

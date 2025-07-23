@@ -1,0 +1,73 @@
+# Quarto
+/.quarto/
+_site/
+.quarto
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# LaTeX
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Large files (keep docs/ for GitHub Pages)
+materials-pool/
+*.pdf
+*.zip
+*.tar.gz
+
+# Private course materials and planning
+agenda.md
+*/agenda.md
+course/
+standards/
+resources/
+.cursor/
+.claude/
+2025-1_ue_methods.md
+
+# Private session planning files
+**/agenda.md
+
+# Editor backup files
+*~
+.#*
+\#* 

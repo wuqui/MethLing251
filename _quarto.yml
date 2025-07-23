@@ -1,0 +1,86 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!materials-pool/"
+    - "!course/"
+    - "!standards/"
+    - "!resources/"
+    - "!.cursor/"
+    - "!.claude/"
+    - "!quarto/"
+    - "07_corpus-linguistics-2/slides.qmd"
+    - "08_questionnaires-interview/questionnaires-interviews.qmd"
+    - "09_reading/09_reading.qmd"
+    - "10_writing/10_writing.qmd"
+    - "11_analysing-data/11_analysing-data.qmd"
+    - "12_wrap-up/12_wrap-up.qmd"
+
+execute:
+  enabled: false
+
+website:
+  title: "Methods in Linguistics"
+  description: "Course materials for Methods in Linguistics (MethLing251)"
+  
+  navbar:
+    title: "MethLing251"
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Sessions
+        menu:
+          - text: "Session 07: Corpus Linguistics 2"
+            href: 07_corpus-linguistics-2/slides.html
+          - text: "Session 08: Questionnaires & Interviews" 
+            href: 08_questionnaires-interview/questionnaires-interviews.html
+          - text: "Session 09: Reading"
+            href: 09_reading/09_reading.html
+          - text: "Session 10: Writing"
+            href: 10_writing/10_writing.html
+          - text: "Session 11: Analysing Data"
+            href: 11_analysing-data/11_analysing-data.html
+          - text: "Session 12: Wrap-up"
+            href: 12_wrap-up/12_wrap-up.html
+      - href: about.qmd
+        text: About
+    
+    right:
+      - icon: github
+        href: https://github.com/YOUR_USERNAME/2025-1_ue_methods
+        
+  sidebar:
+    - title: "Course Sessions"
+      contents:
+        - index.qmd
+        - section: "Course Materials"
+          contents:
+            - text: "Session 07: Corpus Linguistics 2"
+              href: 07_corpus-linguistics-2/slides.html
+            - text: "Session 08: Questionnaires & Interviews"
+              href: 08_questionnaires-interview/questionnaires-interviews.html
+            - text: "Session 09: Reading"
+              href: 09_reading/09_reading.html
+            - text: "Session 10: Writing"
+              href: 10_writing/10_writing.html
+            - text: "Session 11: Analysing Data"
+              href: 11_analysing-data/11_analysing-data.html
+            - text: "Session 12: Wrap-up"
+              href: 12_wrap-up/12_wrap-up.html
+        - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    number-sections: true
+    highlight-style: github
+    code-fold: true
+    code-tools: true
+
+
+
