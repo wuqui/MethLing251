@@ -27,8 +27,6 @@ website:
   navbar:
     title: "MethLing251"
     left:
-      - href: index.qmd
-        text: Home
       - text: Sessions
         menu:
           - text: "Session 07: Corpus Linguistics 2"
@@ -43,8 +41,6 @@ website:
             href: 11_analysing-data/11_analysing-data.html
           - text: "Session 12: Wrap-up"
             href: 12_wrap-up/12_wrap-up.html
-      - href: about.qmd
-        text: About
     
     right:
       - icon: github
@@ -57,7 +53,7 @@ format:
       - brand
     css: styles.css
     toc: true
-    number-sections: true
+    number-sections: false
     highlight-style: github
     code-fold: true
 

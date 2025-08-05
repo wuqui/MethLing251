@@ -1,66 +1,33 @@
 ---
 title: "Methods in Linguistics"
-subtitle: "MethLing251 - LMU Munich"
-author: "Quirin Würschinger"
+author: "Quirin Würschinger, LMU Munich"
 date-modified: last-modified
 ---
 
-## Course Overview
+# Course schedule
 
-Welcome to **Methods in Linguistics** (MethLing251), a comprehensive course designed to equip students with essential research methodologies for linguistic studies.
+{{< include includes/_schedule.qmd >}}
 
-### Course Objectives
 
-This course provides practical training in:
+# Course description
 
-- Research planning and project management
-- Literature review and reference management  
-- Data collection methods (corpus linguistics, surveys, interviews)
-- Statistical analysis and data visualisation
-- Academic writing and presentation skills
+This course will guide you through the process of designing and conducting a research project in linguistics, from identifying a topic, to carrying out the research, to composing the final written document (e.g., term paper, BA thesis, Zulassungsarbeit).
 
-### Course Structure
+You will be offered practical advice on
 
-The course consists of 12 sessions covering fundamental research methods:
+- planning and organising your work,
+- identifying and narrowing a topic,
+- developing and refining research questions,
+- finding and managing background information and literature,
+- effective and sustainable note-taking,
+- referencing literature and avoiding plagiarism,
+- collecting and analysing data using various methods (e.g. corpora, surveys),
+- reporting results and academic writing.
 
-## Session Materials
+For each topic, I will provide relevant materials and guide you through hands-on exercises to develop practical skills. You will have the opportunity to share your project ideas and receive constructive feedback.
 
-The first sessions are currently available at
-<https://publish.obsidian.md/methling251/proj/MethLing251/MethLing251>. They will be moved here soon.
+# Core textbooks
 
-### Available Sessions
+Litosseliti, Lia. 2025. Research Methods in Linguistics. Bloomsbury Academic. https://www.bloomsbury.com/in/research-methods-in-linguistics-9781350429178/.
 
-- **[Session 07: Corpus Linguistics 2](07_corpus-linguistics-2/slides.html)** - Advanced corpus analysis techniques
-- **[Session 08: Questionnaires & Interviews](08_questionnaires-interview/questionnaires-interviews.html)** - Data collection methods
-- **[Session 09: Reading](09_reading/09_reading.html)** - Systematic literature review strategies  
-- **[Session 10: Writing](10_writing/10_writing.html)** - Academic writing principles
-- **[Session 11: Analysing Data](11_analysing-data/11_analysing-data.html)** - Statistical analysis and visualisation
-- **[Session 12: Wrap-up](12_wrap-up/12_wrap-up.html)** - Course synthesis and future directions
-
-## Key Resources
-
-### Essential Tools
-- **Zotero** - Reference management
-- **Excel** - Data analysis and visualisation
-- **Sketch Engine** - Corpus analysis
-- **Google Forms** - Survey creation
-- **COCA** - Corpus of Contemporary American English
-
-### Learning Outcomes
-
-By the end of this course, students will be able to:
-
-1. Design and implement linguistic research projects
-2. Conduct systematic literature reviews
-3. Collect and analyse linguistic data using various methods
-4. Apply statistical thinking to linguistic research
-5. Write clear, evidence-based academic papers
-6. Present research findings effectively
-
-## Getting Started
-
-Begin with [Session 07](07_corpus-linguistics-2/slides.html) or explore the full course materials using the navigation menu above.
-
----
-
-*Course materials are continuously updated. Last modified: {{< meta date-modified >}}*
+Wray, Alison & Bloomer, Aileen. 2012. Projects in Linguistics. A Practical Guide to Researching Language. New York: Hodder Arnold.
