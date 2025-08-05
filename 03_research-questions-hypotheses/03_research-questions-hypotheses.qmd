@@ -1,5 +1,5 @@
 ---
-title: "Session 03: Research questions and hypotheses"
+title: "3 Research questions and hypotheses"
 subtitle: "Methods in linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date: "2025-05-21"

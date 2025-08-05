@@ -1,5 +1,5 @@
 ---
-title: "Session 02: Self-management and taking notes"
+title: "2 Self-management and taking notes"
 subtitle: "Methods in linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date: "2025-05-14"

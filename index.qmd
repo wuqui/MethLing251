@@ -8,3 +8,7 @@ bibliography: references.bib
 # Course schedule
 
 {{< include includes/_schedule.qmd >}}
+
+# Course description
+
+{{< include includes/_course-description.qmd >}}

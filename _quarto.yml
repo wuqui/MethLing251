@@ -14,6 +14,7 @@ project:
     - "02_self-management-notes/02_self-management-notes.qmd"
     - "03_research-questions-hypotheses/03_research-questions-hypotheses.qmd"
     - "04_reference-management-reading/04_reference-management-reading.qmd"
+    - "05_dictionaries/05_dictionaries.qmd"
     - "07_corpus-linguistics-2/slides.qmd"
     - "08_questionnaires-interview/questionnaires-interviews.qmd"
     - "09_reading/09_reading.qmd"
@@ -33,25 +34,27 @@ website:
     left:
       - text: Sessions
         menu:
-          - text: "Session 01: Organisation and Introduction"
+          - text: "1 Organisation and Introduction"
             href: 01_organisation-introduction/01_organisation-introduction.html
-          - text: "Session 02: Self-management and Notes"
+          - text: "2 Self-management and Notes"
             href: 02_self-management-notes/02_self-management-notes.html
-          - text: "Session 03: Research Questions & Hypotheses"
+          - text: "3 Research Questions & Hypotheses"
             href: 03_research-questions-hypotheses/03_research-questions-hypotheses.html
-          - text: "Session 04: Reference management & Reading"
+          - text: "4 Reference management & Reading"
             href: 04_reference-management-reading/04_reference-management-reading.html
-          - text: "Session 07: Corpus Linguistics 2"
+          - text: "5 Dictionaries"
+            href: 05_dictionaries/05_dictionaries.html
+          - text: "7 Corpus Linguistics 2"
             href: 07_corpus-linguistics-2/slides.html
-          - text: "Session 08: Questionnaires & Interviews" 
+          - text: "8 Questionnaires & Interviews" 
             href: 08_questionnaires-interview/questionnaires-interviews.html
-          - text: "Session 09: Reading"
+          - text: "9 Reading"
             href: 09_reading/09_reading.html
-          - text: "Session 10: Writing"
+          - text: "10 Writing"
             href: 10_writing/10_writing.html
-          - text: "Session 11: Analysing Data"
+          - text: "11 Analysing Data"
             href: 11_analysing-data/11_analysing-data.html
-          - text: "Session 12: Wrap-up"
+          - text: "12 Wrap-up"
             href: 12_wrap-up/12_wrap-up.html
     
     right:

@@ -1,5 +1,5 @@
 ---
-title: "Reference management & reading"
+title: "4 Reference management & reading"
 subtitle: "Methods in linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date: 2025-05-07

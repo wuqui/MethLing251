@@ -1,5 +1,5 @@
 ---
-title: "Session 01: Organisation and introduction"
+title: "1 Organisation and introduction"
 subtitle: "Methods in linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date: "2025-04-23"

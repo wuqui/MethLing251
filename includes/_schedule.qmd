@@ -4,7 +4,7 @@
 |  2 | 14 May | [Self-management and taking notes](02_self-management-notes/02_self-management-notes.qmd) |
 |  3 | 21 May | [Research questions and hypotheses](03_research-questions-hypotheses/03_research-questions-hypotheses.qmd) |
 |  4 | 28 May | [Reference management & reading](04_reference-management-reading/04_reference-management-reading.qmd) |
-|  5 |  4 Jun | Dictionaries |
+|  5 |  4 Jun | [Dictionaries](05_dictionaries/05_dictionaries.qmd) |
 |  6 | 11 Jun | Corpus linguistics: theory and methods |
 |  7 | 18 Jun | [Corpus linguistics: searching, analysing and creating corpora](07_corpus-linguistics-2/slides.qmd) |
 |  8 | 25 Jun | [Questionnaires & interviews](08_questionnaires-interview/questionnaires-interviews.qmd) |
