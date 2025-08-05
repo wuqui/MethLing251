@@ -13,6 +13,7 @@ project:
     - "01_organisation-introduction/01_organisation-introduction.qmd"
     - "02_self-management-notes/02_self-management-notes.qmd"
     - "03_research-questions-hypotheses/03_research-questions-hypotheses.qmd"
+    - "04_reference-management-reading/04_reference-management-reading.qmd"
     - "07_corpus-linguistics-2/slides.qmd"
     - "08_questionnaires-interview/questionnaires-interviews.qmd"
     - "09_reading/09_reading.qmd"
@@ -38,6 +39,8 @@ website:
             href: 02_self-management-notes/02_self-management-notes.html
           - text: "Session 03: Research Questions & Hypotheses"
             href: 03_research-questions-hypotheses/03_research-questions-hypotheses.html
+          - text: "Session 04: Reference management & Reading"
+            href: 04_reference-management-reading/04_reference-management-reading.html
           - text: "Session 07: Corpus Linguistics 2"
             href: 07_corpus-linguistics-2/slides.html
           - text: "Session 08: Questionnaires & Interviews" 
