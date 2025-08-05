@@ -1,7 +1,7 @@
 |    |   Date | Topic |
 |---:|-------:|:------|
 |  1 | 23 Apr | [Organisation and introduction](01_organisation-introduction/01_organisation-introduction.qmd) |
-|  2 | 14 May | Self-management and taking notes |
+|  2 | 14 May | [Self-management and taking notes](02_self-management-notes/02_self-management-notes.qmd) |
 |  3 | 21 May | Research questions and hypotheses |
 |  4 | 28 May | Reference management & reading |
 |  5 |  4 Jun | Dictionaries |

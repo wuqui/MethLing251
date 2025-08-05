@@ -1,0 +1,209 @@
+---
+title: "Session 02: Self-management and taking notes"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-05-14"
+date-format: "long"
+bibliography: ../references.bib
+---
+
+# Research questions [@Litosseliti2025Methods]
+
+## Discussion
+
+### 1. Why can well-formulated research questions be seen as the "compass" of a study?
+
+- They pinpoint exactly what you need to discover, guiding your choice of data sources and analytical tools
+- A vague question leads to unfocused data collection and mismatched methods, risking inconclusive or irrelevant results
+
+### 2. Pick a linguistic phenomenon (e.g. code-switching). How would you turn that into a descriptive vs. an explanatory research question?
+
+- **Phenomenon:** Code-switching
+  - **Descriptive:** "What patterns of code-switching occur among bilingual teenagers in Munich?"
+    - Method: Corpus analysis of recorded conversations
+  - **Explanatory:** "Why do bilingual teenagers switch codes more frequently in peer-group settings than in family interactions?"
+    - Method: Mixed design—interviews to probe motivations plus quantitative counts
+
+### 3. What does "operationalizability" mean in the context of research questions, and why is it crucial?
+
+- **Meaning:** Defining each concept in measurable, observable terms so data and methods map directly onto your questions
+- **Importance:** Ensures clarity, replicability, and that findings actually address the questions posed
+
+- **Example ("politeness"):**
+  - **Definition:** Use of formal pronouns (*Sie* vs. *du*) and mitigators (*bitte*, *könnten Sie*…) in German requests
+  - **Measurement:**
+    - Count occurrences of *Sie* vs. *du* in a corpus of service-encounter dialogues
+    - Rate politeness markers per utterance (0 = none, 1 = one marker, 2 = multiple markers)
+
+### Tips for working towards and refining a research question
+
+- topic
+  - research question 1
+    - hypothesis
+      - why? (→ literature)
+  - research question 2
+
+## Key points
+
+- Research questions are the **"compass"** of empirical studies: they define what data you need, how to collect it, and how to analyse it
+- They can emerge from gaps in the literature, existing sites of inquiry (e.g. social events or phenomena), or unexpected findings in your own data
+- Unlike precise, testable hypotheses, research questions are broader, exploratory, and open-ended – ideal for qualitative work
+- Formulated as Who/What/How/Why/To what extent?, questions may be descriptive (What), explanatory (Why) or evaluative, each suggesting different methods
+- Key distinctions:
+  - **Primary vs Secondary** (importance/data volume)
+  - **Main/Contributory** & **Overarching/Subordinate** (hierarchies)
+  - **Empirical/Methodological/Theoretical/Speculative** (focus of inquiry)
+  - **Researcher- vs Participant-Generated** (whose concerns drive it)
+- Start with many questions, then narrow to those you can fully address within time/resources
+- **Operationalizability**: define every term clearly and link each question to specific data and methods
+- Each question dictates your:
+  - **Data** (e.g. corpus vs interviews)
+  - **Collection design** (e.g. experiment vs naturalistic recording)
+  - **Transcription conventions** & **analytical framework** (e.g. corpus analysis, discourse analysis)
+- In write-ups, document origins, rationale, operationalization, and map questions to methods (tables/diagrams)
+
+# Note-taking
+
+## Plain text
+
+WYSIWYG: What you see is what you get.
+
+- guide: [plain-text.co](https://plain-text.co/)
+- advantages
+  - interoperability
+    - over time
+    - with different tools
+    - with **other** people
+    - with LLMs (Large Language Model → ChatGPT)
+  - editing experience: speed, copy & pasting etc.
+  - export to different formats: `docx`, `html`, `pdf`
+  - version control via `git`
+- most popular format: Markdown
+
+## Networked notes
+
+### Mental lexicon
+
+![Mental lexicon](att/mental-lexicon.png){width="600"}
+
+### Networked notes (concept)
+
+![Networked notes concept](att/networked-notes.png){width="600"}
+
+#### Zettelkasten method
+
+![Zettelkasten method](att/zettelkasten-method.png){width="600"}
+
+- **Origin:** Sociologist Niklas Luhmann (> 70 books)
+- **Book:** @Ahrens2017ZettelkastenPrinzip
+- **Website:** [zettelkasten.de](https://zettelkasten.de/)
+
+## Tools
+
+- free options
+  - **[Obsidian](https://obsidian.md/)** (recommended)
+  - [Capacities](https://capacities.io/)
+  - [Logseq](https://logseq.com/)
+- paid: e.g. [Notion](https://www.notion.so/)
+
+# Self-management
+
+## General principles
+
+- Keep it **simple**, both in terms of planning and tools
+- Almost any **system** can work, as long as it's a system and you use it consistently
+
+## Setting SMART goals
+
+![SMART goals](att/smart-goals.png){width="600"}
+
+## Managing TODOs
+
+- Include all your TODOs (from other projects, private commitments)
+- Set TODOs the right way:
+  - **Actionable**
+  - Have a **date** (scheduled start & deadline)
+- Make a **plan** (weekly & daily time slots)
+- **Review** your days, weeks, months, year
+
+## Prioritising tasks
+
+### Marbles in a jar
+
+![Marbles in a jar](att/marbles-jar.png){width="600"}
+
+### Pareto's law
+
+![Pareto's law](att/paretos-law.png){width="600"}
+
+- 20% of actions can give 80% of results
+- The remaining 20% of results will require 80% of the time
+
+### Eisenhower matrix
+
+![Eisenhower matrix](att/eisenhower-matrix.png){width="600"}
+
+## Task management tools
+
+- Pen and paper
+- Digital tools, e.g., [Todoist](https://todoist.com/) or [TickTick](https://ticktick.com/)
+- Note-taking apps like Logseq/Obsidian
+
+## Frameworks for productivity
+
+- [Getting Things Done (GTD)](https://gettingthingsdone.com/) by David Allen
+- [Zen to Done (ZTD)](https://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system/) by Leo Babauta (a simpler version of GTD)
+
+## Making a time plan
+
+- Start with the **end** in mind: work backwards from the deadline
+- Use **buffers**: everything takes longer than we think
+- Tools:
+  - Calendar
+  - Gantt charts
+    - ![Gantt chart](att/gantt-chart.png){width="600"}
+
+# Exercises
+
+## Taking notes with Obsidian
+
+1. Install Obsidian from [obsidian.md](https://obsidian.md/)
+2. Create a new "vault"
+3. Start drafting your research questions:
+  - Use Markdown formatting
+  - Create links to related concepts (e.g. `[[sociolinguistics]]`, `[[COCA]]`)
+  - Check the graph view for connections between concepts
+4. Export your notes as PDF for submission
+
+## Self-management
+
+### Setting goals
+
+Set a SMART goal
+
+### Prioritise
+
+Prioritise your tasks for the next 7 days:
+
+- 80/20 Pareto rule
+- Eisenhower matrix
+
+### Manage your time
+
+Make a specific time plan (for your research project)
+
+#### Tools
+
+- Digital calendar
+- [TeamGantt](https://www.teamgantt.com/) or similar
+
+#### Project agenda
+
+1. Determine topic, research questions, hypotheses
+2. Find and read previous literature
+3. Collect and pre-process data
+4. Conduct analysis, gather results
+5. Write the paper
+6. Revise your paper
+
+# References 
