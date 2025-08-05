@@ -45,7 +45,7 @@ via email (pdf) by the end of day
 - That is, it is fundamentally a *psychological entity*, and correspondingly, its contents cannot be observed directly, but must be deduced from speakers' and hearers' **behaviour**.
 
 - There are two fundamental approaches to the lexicon.
-    - The first is that, in the slogan, the lexicon is **the home of the lawless** (Di Sciullo and Williams 1987): that is, the lexicon contains whatever cannot be predicted by general rule.
+    - The first is that, in the slogan, the lexicon is **the home of the lawless** [@DiSciullo1987Definition]: that is, the lexicon contains whatever cannot be predicted by general rule.
     - The second, wider, approach sees the lexicon as not only containing the lawless, but also **containing anything to do with the structure of words**, whether it is lawless or not."
 
 # The Lexicon
@@ -107,7 +107,7 @@ b) in the **sense of vocabulary** as seen from a systematic, synchronic point of
 
 - "What is most important, however, is that in lexicology the stock of words or lexical items is not simply regarded as a **list of isolated elements**.
 - Lexicologists try to find out **generalizations** and **regularities** and especially consider **relations** between elements.
-- Lexicology is therefore concerned with **structures**, not with a mere agglomeration of words (cf. Jackson 1988: 222)."
+- Lexicology is therefore concerned with **structures**, not with a mere agglomeration of words (cf. @Jackson1988WordsTheir, 222)."
 
 [@Lipka2002EnglishLexicology, p. 1]
 

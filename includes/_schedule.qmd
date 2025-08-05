@@ -7,7 +7,7 @@
 |  5 |  4 Jun | [Dictionaries](05_dictionaries/05_dictionaries.qmd) |
 |  6 | 11 Jun | [Corpus linguistics: theory and methods](06_corpus-linguistics-theory-methods/06_corpus-linguistics-theory-methods.qmd) |
 |  7 | 18 Jun | [Corpus linguistics: searching, analysing and creating corpora](07_corpus-linguistics-2/07_corpus-linguistics-2.qmd) |
-|  8 | 25 Jun | [Questionnaires & interviews](08_questionnaires-interview/questionnaires-interviews.qmd) |
+|  8 | 25 Jun | [Questionnaires & interviews](08_questionnaires-interview/08_questionnaires-interview.qmd) |
 |  9 |  2 Jul | [Reading](09_reading/09_reading.qmd) |
 | 10 |  9 Jul | [Writing](10_writing/10_writing.qmd) |
 | 11 | 16 Jul | [Analysing data](11_analysing-data/11_analysing-data.qmd) |

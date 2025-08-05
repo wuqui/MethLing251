@@ -14,7 +14,7 @@ format:
       shortcut: "`"
       theme: "light"
 css: custom.css
-bibliography: references.bib
+bibliography: ../references.bib
 revealjs-plugins:
   - pointer
   - excalidraw

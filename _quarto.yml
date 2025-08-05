@@ -17,10 +17,13 @@ project:
     - "05_dictionaries/05_dictionaries.qmd"
     - "06_corpus-linguistics-theory-methods/06_corpus-linguistics-theory-methods.qmd"
     - "07_corpus-linguistics-2/07_corpus-linguistics-2.qmd"
-    - "07_corpus-linguistics-2/slides.qmd"
-    - "08_questionnaires-interview/questionnaires-interviews.qmd"
+    - "07_corpus-linguistics-2/07_corpus-linguistics-2-slides.qmd"
+    - "08_questionnaires-interview/08_questionnaires-interview.qmd"
+    - "08_questionnaires-interview/08_questionnaires-interview-slides.qmd"
     - "09_reading/09_reading.qmd"
+    - "09_reading/09_reading-slides.qmd"
     - "10_writing/10_writing.qmd"
+    - "10_writing/10_writing-slides.qmd"
     - "11_analysing-data/11_analysing-data.qmd"
     - "12_wrap-up/12_wrap-up.qmd"
 
@@ -51,7 +54,7 @@ website:
           - text: "7 Corpus Linguistics 2"
             href: 07_corpus-linguistics-2/07_corpus-linguistics-2.html
           - text: "8 Questionnaires & Interviews" 
-            href: 08_questionnaires-interview/questionnaires-interviews.html
+            href: 08_questionnaires-interview/08_questionnaires-interview.html
           - text: "9 Reading"
             href: 09_reading/09_reading.html
           - text: "10 Writing"

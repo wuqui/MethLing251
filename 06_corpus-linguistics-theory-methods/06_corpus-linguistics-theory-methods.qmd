@@ -66,7 +66,7 @@ A **language variety** is any form of language that can be delineated from other
 
 ## Size
 
-"There is no **principled answer** to the question "How large must a linguistic corpus be?" except, perhaps, an honest "It is impossible to say" (Renouf 1987: 130). 
+"There is no **principled answer** to the question "How large must a linguistic corpus be?" except, perhaps, an honest "It is impossible to say" [@Renouf1987Lexical, 130]. 
 
 However, there are **two practical answers**.
 

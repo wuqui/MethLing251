@@ -99,7 +99,7 @@ bibliography: ../references.bib
 
 - In-text citations
     - Usually you should use an author-date format
-        - e.g. "Here's an interesting quote." (Schmid 2020: 420)
+        - e.g. "Here's an interesting quote." [@Schmid2020ECModel, 420]
         - Recommended styles
             - [Stilblatt](https://www.anglistik.uni-muenchen.de/service_downloads/allgemeine_handouts/stilblatt.pdf) Anglistik LMU
             - [Chicago Author-Date Style](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html)
@@ -124,7 +124,7 @@ bibliography: ../references.bib
 ## Taking Notes on References
 
 - General recommendation: Use a tool for networked notes (e.g. Obsidian) so that you can link notes and thoughts to important concepts (see note-taking).
-- Store citation information alongside notes you're taking (e.g. Schmid 2016: 58).
+- Store citation information alongside notes you're taking (e.g. @Schmid2016EntrenchmentPsychology, 58).
 - Mark everything you copy verbatim to avoid plagiarism.
 
 ## Using Zotero for Managing References

@@ -11,7 +11,7 @@ format:
     # max-scale: 2.0
     height: 800
 css: custom.css
-bibliography: references.bib
+bibliography: ../references.bib
 ---
 
 # Introduction

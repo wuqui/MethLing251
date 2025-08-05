@@ -10,7 +10,7 @@ format:
     slide-level: 0
     height: 800
 css: custom.css
-bibliography: references.bib
+bibliography: ../references.bib
 ---
 
 # Introduction
