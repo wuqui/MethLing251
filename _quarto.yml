@@ -15,6 +15,7 @@ project:
     - "03_research-questions-hypotheses/03_research-questions-hypotheses.qmd"
     - "04_reference-management-reading/04_reference-management-reading.qmd"
     - "05_dictionaries/05_dictionaries.qmd"
+    - "06_corpus-linguistics-theory-methods/06_corpus-linguistics-theory-methods.qmd"
     - "07_corpus-linguistics-2/slides.qmd"
     - "08_questionnaires-interview/questionnaires-interviews.qmd"
     - "09_reading/09_reading.qmd"
@@ -44,6 +45,8 @@ website:
             href: 04_reference-management-reading/04_reference-management-reading.html
           - text: "5 Dictionaries"
             href: 05_dictionaries/05_dictionaries.html
+          - text: "6 Corpus linguistics: theory and methods"
+            href: 06_corpus-linguistics-theory-methods/06_corpus-linguistics-theory-methods.html
           - text: "7 Corpus Linguistics 2"
             href: 07_corpus-linguistics-2/slides.html
           - text: "8 Questionnaires & Interviews" 

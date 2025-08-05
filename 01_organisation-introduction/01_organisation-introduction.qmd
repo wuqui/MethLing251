@@ -23,9 +23,7 @@ Are you taking this course as part of a Modulprüfung? → See [course requireme
 
 {{< include ../includes/_course-description.qmd >}}
 
-## Schedule
 
-{{< include ../includes/_schedule.qmd >}}
 
 ## Requirements
 

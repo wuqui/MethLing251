@@ -1,0 +1,25 @@
+/* Code wrapping for inline code specifically */
+p code, li code, td code, th code {
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+  word-break: break-all !important;
+}
+
+/* Code wrapping for code blocks */
+pre code {
+  white-space: pre-wrap !important;
+  word-wrap: break-word !important;
+  overflow-wrap: break-word !important;
+}
+
+/* Code output wrapping (as per GitHub discussion) */
+div.cell-output pre code {
+  white-space: pre-wrap !important;
+}
+
+/* Ensure code blocks don't overflow horizontally */
+pre {
+  overflow-x: auto;
+  white-space: pre-wrap !important;
+}

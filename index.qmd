@@ -3,6 +3,7 @@ title: "Methods in Linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date-modified: last-modified
 bibliography: references.bib
+nocite: '@*'
 ---
 
 # Course schedule
@@ -12,3 +13,76 @@ bibliography: references.bib
 # Course description
 
 {{< include includes/_course-description.qmd >}}
+
+# Course requirements & assessment
+
+## Assessment formats
+
+Assessment formats vary based on ECTS credits:
+
+- **3 ECTS**: short paper (≈ 3–5 pages)
+- **6 ECTS**: long paper (≈ 10–12 pages)
+
+→ Check your *Studien-/Prüfungsordnung* for the exact specification.
+
+::: {.callout-note}
+**Deadline** for research proposal: Submit via email in PDF format by 29 August 2025.
+:::
+
+
+## Module information {#course-information}
+
+This course can be taken under various module codes:
+
+- **WP 13.2**: Fortgeschrittenenübung Sprachwissenschaft (21302)
+- **P 9.2.2**: Übung zur Sprachwissenschaft (10903)  
+- **P 5.1**: Übung zur Sprachwissenschaft (10501)
+
+Students taking this course as part of a Modulprüfung should consult their specific programme requirements for deadlines and additional specifications.
+
+## Research proposal
+
+In this Methods course you will prepare a concise **Research Proposal** (≈3–5 pages) outlining an empirical study in linguistics and demonstrating your understanding of research design and methodology. It will serve as the plan for your future term paper or thesis.
+
+
+### Contents of your research proposal
+
+- **title** of your research project
+    - a concise, descriptive title that captures your study focus
+- **abstract**: how you expect the project to turn out
+    - ~150–250 words summarising aims, methods and anticipated outcomes
+- **research questions and hypotheses**
+    - list one or more clear research questions and any testable hypotheses and why these hypotheses are plausible
+    - this should be in structured full sentences, not just a list of keywords
+- **data**: describe the data you intend to collect
+    - specify type (e.g. corpus, questionnaire), source, size and language(s)
+    - be specific and detailed: e.g. which sample of words/constructions are you studying? which parts of the corpus are you using?
+- **methods**: explain the methods you will employ
+    - outline analytical techniques (e.g. frequency analysis, collocation analysis), qualitative coding and tools
+- **provisional table of contents**
+    - propose major sections and subsections (e.g. introduction, literature review, methods)
+- **working bibliography**
+    - include references in Chicago author-date style
+
+
+## Consultation & support
+
+For questions about course content, research proposals, or term paper guidance, please contact me via email at [q.wuerschinger@lmu.de](mailto:q.wuerschinger@lmu.de).
+
+
+## Term paper guidance
+
+When planning your project, consider:
+
+- **type**: term paper, BA thesis, Zulassungsarbeit etc.
+- **domain**: (linguistic) field, supervisor
+- **deadline**: when are you planning to conduct and finish your project?
+
+For successful term papers:
+
+- Apply the complete research cycle
+- Use multiple methods for robustness
+- Document your process thoroughly
+
+
+# References

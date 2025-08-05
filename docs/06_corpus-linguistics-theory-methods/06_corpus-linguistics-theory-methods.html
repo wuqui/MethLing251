@@ -1,0 +1,1098 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.32">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Quirin Würschinger, LMU Munich">
+<meta name="dcterms.date" content="2025-06-11">
+
+<title>6 Corpus linguistics: theory and methods – Methods in Linguistics</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-234273d1456647dabc34a594ac50e507.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-18156f6b26234845020cf2ddefcbbf66.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="custom.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">MethLing251</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-sessions" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Sessions</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-sessions">    
+        <li>
+    <a class="dropdown-item" href="../01_organisation-introduction/01_organisation-introduction.html">
+ <span class="dropdown-text">1 Organisation and Introduction</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../02_self-management-notes/02_self-management-notes.html">
+ <span class="dropdown-text">2 Self-management and Notes</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../03_research-questions-hypotheses/03_research-questions-hypotheses.html">
+ <span class="dropdown-text">3 Research Questions &amp; Hypotheses</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../04_reference-management-reading/04_reference-management-reading.html">
+ <span class="dropdown-text">4 Reference management &amp; Reading</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../05_dictionaries/05_dictionaries.html">
+ <span class="dropdown-text">5 Dictionaries</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../06_corpus-linguistics-theory-methods/06_corpus-linguistics-theory-methods.html">
+ <span class="dropdown-text">6 Corpus linguistics: theory and methods</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../07_corpus-linguistics-2/slides.html">
+ <span class="dropdown-text">7 Corpus Linguistics 2</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../08_questionnaires-interview/questionnaires-interviews.html">
+ <span class="dropdown-text">8 Questionnaires &amp; Interviews</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../09_reading/09_reading.html">
+ <span class="dropdown-text">9 Reading</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../10_writing/10_writing.html">
+ <span class="dropdown-text">10 Writing</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../11_analysing-data/11_analysing-data.html">
+ <span class="dropdown-text">11 Analysing Data</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../12_wrap-up/12_wrap-up.html">
+ <span class="dropdown-text">12 Wrap-up</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/wuqui/MethLing251"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#what-is-corpus-linguistics" id="toc-what-is-corpus-linguistics" class="nav-link active" data-scroll-target="#what-is-corpus-linguistics">What is Corpus Linguistics?</a></li>
+  <li><a href="#what-is-a-corpus" id="toc-what-is-a-corpus" class="nav-link" data-scroll-target="#what-is-a-corpus">What is a Corpus?</a>
+  <ul class="collapse">
+  <li><a href="#authenticity" id="toc-authenticity" class="nav-link" data-scroll-target="#authenticity">Authenticity</a></li>
+  <li><a href="#representativeness" id="toc-representativeness" class="nav-link" data-scroll-target="#representativeness">Representativeness</a></li>
+  <li><a href="#size" id="toc-size" class="nav-link" data-scroll-target="#size">Size</a></li>
+  </ul></li>
+  <li><a href="#why-do-corpus-linguistics" id="toc-why-do-corpus-linguistics" class="nav-link" data-scroll-target="#why-do-corpus-linguistics">Why Do Corpus Linguistics?</a>
+  <ul class="collapse">
+  <li><a href="#applications-of-corpus-linguistics" id="toc-applications-of-corpus-linguistics" class="nav-link" data-scroll-target="#applications-of-corpus-linguistics">Applications of Corpus Linguistics</a>
+  <ul class="collapse">
+  <li><a href="#research-applications" id="toc-research-applications" class="nav-link" data-scroll-target="#research-applications">Research Applications</a></li>
+  <li><a href="#practical-applications" id="toc-practical-applications" class="nav-link" data-scroll-target="#practical-applications">Practical Applications</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#key-concepts-in-corpus-linguistics" id="toc-key-concepts-in-corpus-linguistics" class="nav-link" data-scroll-target="#key-concepts-in-corpus-linguistics">Key Concepts in Corpus Linguistics</a></li>
+  <li><a href="#types-of-corpora" id="toc-types-of-corpora" class="nav-link" data-scroll-target="#types-of-corpora">Types of Corpora</a></li>
+  <li><a href="#overview-of-selected-corpora" id="toc-overview-of-selected-corpora" class="nav-link" data-scroll-target="#overview-of-selected-corpora">Overview of Selected Corpora</a></li>
+  <li><a href="#corpus-analysis-tools" id="toc-corpus-analysis-tools" class="nav-link" data-scroll-target="#corpus-analysis-tools">Corpus Analysis Tools</a>
+  <ul class="collapse">
+  <li><a href="#platforms" id="toc-platforms" class="nav-link" data-scroll-target="#platforms">Platforms</a></li>
+  <li><a href="#standalone-tools" id="toc-standalone-tools" class="nav-link" data-scroll-target="#standalone-tools">Standalone Tools</a></li>
+  <li><a href="#other-resources" id="toc-other-resources" class="nav-link" data-scroll-target="#other-resources">Other Resources</a></li>
+  </ul></li>
+  <li><a href="#a-corpus-linguistic-workflow" id="toc-a-corpus-linguistic-workflow" class="nav-link" data-scroll-target="#a-corpus-linguistic-workflow">A Corpus-Linguistic Workflow</a></li>
+  <li><a href="#using-sketch-engine" id="toc-using-sketch-engine" class="nav-link" data-scroll-target="#using-sketch-engine">Using Sketch Engine</a>
+  <ul class="collapse">
+  <li><a href="#main-features" id="toc-main-features" class="nav-link" data-scroll-target="#main-features">Main Features</a></li>
+  <li><a href="#searching-corpora-with-cql" id="toc-searching-corpora-with-cql" class="nav-link" data-scroll-target="#searching-corpora-with-cql">Searching Corpora with CQL</a>
+  <ul class="collapse">
+  <li><a href="#common-attributes" id="toc-common-attributes" class="nav-link" data-scroll-target="#common-attributes">Common Attributes</a></li>
+  <li><a href="#operators-and-wildcards" id="toc-operators-and-wildcards" class="nav-link" data-scroll-target="#operators-and-wildcards">Operators and Wildcards</a></li>
+  <li><a href="#example-query" id="toc-example-query" class="nav-link" data-scroll-target="#example-query">Example Query</a></li>
+  </ul></li>
+  <li><a href="#corpus-linguistic-analyses-in-sketch-engine" id="toc-corpus-linguistic-analyses-in-sketch-engine" class="nav-link" data-scroll-target="#corpus-linguistic-analyses-in-sketch-engine">Corpus-Linguistic Analyses in Sketch Engine</a>
+  <ul class="collapse">
+  <li><a href="#concordances" id="toc-concordances" class="nav-link" data-scroll-target="#concordances">Concordances</a></li>
+  <li><a href="#frequency-analysis" id="toc-frequency-analysis" class="nav-link" data-scroll-target="#frequency-analysis">Frequency Analysis</a></li>
+  <li><a href="#collocations" id="toc-collocations" class="nav-link" data-scroll-target="#collocations">Collocations</a></li>
+  <li><a href="#word-sketches" id="toc-word-sketches" class="nav-link" data-scroll-target="#word-sketches">Word Sketches</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a>
+  <ul class="collapse">
+  <li><a href="#searching-corpora" id="toc-searching-corpora" class="nav-link" data-scroll-target="#searching-corpora">Searching Corpora</a></li>
+  <li><a href="#analysing-data" id="toc-analysing-data" class="nav-link" data-scroll-target="#analysing-data">Analysing Data</a></li>
+  </ul></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">6 Corpus linguistics: theory and methods</h1>
+<p class="subtitle lead">Methods in linguistics</p>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Quirin Würschinger, LMU Munich </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 11, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="what-is-corpus-linguistics" class="level1">
+<h1>What is Corpus Linguistics?</h1>
+<p>Corpus linguistics is a research methodology that systematically studies language using large collections of authentic texts, known as <strong>corpora</strong>. These collections, which can be either written or spoken, provide a comprehensive and empirical basis for analysing:</p>
+<ul>
+<li>language use (e.g.&nbsp;collocational patterns such as <em>pretty woman</em>)</li>
+<li>linguistic variation across different text types or communities (e.g.&nbsp;neologisms such as <em>smash</em>)</li>
+<li>language change (e.g.&nbsp;<em>going to</em> future)</li>
+</ul>
+<p>The primary goal is to investigate linguistic phenomena by examining real-world language usage. This approach contrasts with traditional linguistic methods that rely heavily on introspection and theoretical speculation, such as Chomsky’s poverty of the stimulus argument.</p>
+<p>Recent advances in data availability (e.g., web and social media corpora from Twitter and Reddit) and methods (e.g., social network analysis, machine learning) have given corpus linguistics significant momentum.</p>
+<p>“The term corpus linguistics refers to a methodology rather than a theory of language. The methodology consists in the empirical investigation of a specific set of research questions on the basis of authentic language data drawn from a corpus […]” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 22</a>)</span></p>
+<p>“A corpus-based analysis is always a quantitative analysis at its core, even where it is supplemented by qualitative methods. The analysis is based on the frequencies of linguistic phenomena in the corpus and their distribution across the texts or text categories that make up the corpus. This means that a corpus-based analysis is always a statistical analysis.” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 55</a>)</span></p>
+<p><span class="citation" data-cites="Stefanowitsch2020Corpus">Stefanowitsch (<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">2020</a>)</span> offers a phased definition of corpus linguistics:</p>
+<ol type="1">
+<li>“Corpus linguistics is the investigation of linguistic phenomena on the basis of linguistic corpora.” (p.&nbsp;46)</li>
+<li>“Corpus linguistics is the complete and systematic investigation of linguistic phenomena on the basis of linguistic corpora.” (p.&nbsp;49)</li>
+<li>“Corpus linguistics is the complete and systematic investigation of linguistic phenomena on the basis of linguistic corpora using concordances, collocations, and frequency lists.” (p.&nbsp;54)</li>
+</ol>
+</section>
+<section id="what-is-a-corpus" class="level1">
+<h1>What is a Corpus?</h1>
+<p>In principle, any collection of more than one text can be called a corpus. However, in modern linguistics, the term usually implies a more specific set of characteristics.</p>
+<p>“So a corpus in modern linguistics, in contrast to being simply any body of text, might more accurately be described as a finite-sized body of machine-readable text, sampled in order to be maximally representative of the language variety under consideration.” <span class="citation" data-cites="McEnery2001Corpus">(<a href="#ref-McEnery2001Corpus" role="doc-biblioref">McEnery and Wilson 2001, 32</a>)</span></p>
+<p>According to <span class="citation" data-cites="Stefanowitsch2020Corpus">Stefanowitsch (<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">2020, 22–23</a>)</span>, a corpus is a collection of language use samples with three key properties:</p>
+<ol type="1">
+<li>The instances of language use are <strong>authentic</strong>.</li>
+<li>The collection is <strong>representative</strong> of the language or variety under investigation.</li>
+<li>The collection is <strong>large</strong>.</li>
+</ol>
+<section id="authenticity" class="level2">
+<h2 class="anchored" data-anchor-id="authenticity">Authenticity</h2>
+<p>“For a sample of language use to be authentic in the context of corpus linguistics, it must have been produced by a native speaker of the language or language variety under investigation in a natural communicative situation for a specific purpose. This means that the texts must not have been produced specifically for linguistic analysis, and they should not be translations from another language.” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 26</a>)</span></p>
+</section>
+<section id="representativeness" class="level2">
+<h2 class="anchored" data-anchor-id="representativeness">Representativeness</h2>
+<p>“Put simply, a representative sample is a subset of a population that is identical to the population as a whole with respect to the distribution of the phenomenon under investigation. Thus, for a corpus (a sample of language use) to be representative of a particular language, the distribution of linguistic phenomena (words, grammatical structures, etc.) would have to be identical to their distribution in the language as a whole (or in the variety under investigation, see further below).” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 28</a>)</span></p>
+<p>A <strong>language variety</strong> is any form of language that can be delineated from others based on cultural, linguistic, or demographic criteria. It serves as a superordinate term for:</p>
+<ul>
+<li><strong>genre</strong>: culturally defined and recognised varieties.</li>
+<li><strong>register</strong>: varieties characterised by a particular “functional configuration” (a bundle of linguistic features for a specific social function).</li>
+<li><strong>style</strong>: degrees of formality (e.g.&nbsp;formal, informal, colloquial).</li>
+<li><strong>medium</strong>: material manifestation (e.g.&nbsp;spoken, written).</li>
+<li><strong>topic</strong>: the content of texts or the discourse domain.</li>
+<li><strong>text category</strong>: a specific variety included in a corpus.</li>
+</ul>
+<p><span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 29</a>)</span></p>
+</section>
+<section id="size" class="level2">
+<h2 class="anchored" data-anchor-id="size">Size</h2>
+<p>“There is no <strong>principled answer</strong> to the question”How large must a linguistic corpus be?” except, perhaps, an honest “It is impossible to say” (Renouf 1987: 130).</p>
+<p>However, there are <strong>two practical answers</strong>.</p>
+<ul>
+<li>The <strong>more modest answer</strong> is that it must be large enough to contain a sample of instances of the <strong>phenomenon under investigation</strong> that is large enough for analysis […].</li>
+<li>The <strong>less modest answer</strong> is that it must be large enough to contain sufficiently large samples of <strong>every grammatical structure, vocabulary item, etc.</strong> Given that an ever increasing number of texts from a broad range of language varieties is becoming accessible via the web, the second answer may not actually be as immodest as it sounds.</li>
+</ul>
+<p>Current corpora that at least make an honest attempt at diversity currently range from one million (e.g.&nbsp;the ICE corpora) to about half a billion (e.g.&nbsp;the COCA). […] For most linguistic phenomena that researchers are likely to want to investigate, these corpus sizes seem sufficient. Let us take this broad range as characterizing a linguistic corpus for practical purposes.” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 38</a>)</span></p>
+</section>
+</section>
+<section id="why-do-corpus-linguistics" class="level1">
+<h1>Why Do Corpus Linguistics?</h1>
+<p>From a usage-based perspective, corpora are an essential tool for studying language structure, variation, and change.</p>
+<p>“Broadly speaking, science is the study of some aspect of the (physical, natural or social) world by means of systematic observation and experimentation, and linguistics is the scientific study of those aspects of the world that we summarize under the label language.”</p>
+<p>“Let us define a corpus somewhat crudely as a large collection of authentic text (i.e., samples of language produced in genuine communicative situations), and corpus linguistics as any form of linguistic inquiry based on data derived from such a corpus.”</p>
+<p>“Defined in this way, corpora clearly constitute recorded observations of language behavior, so their place in linguistic research seems so obvious that anyone unfamiliar with the last sixty years of mainstream linguistic theorizing will wonder why their use would have to be justified at all.” <span class="citation" data-cites="Stefanowitsch2020Corpus">(<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">Stefanowitsch 2020, 1</a>)</span></p>
+<section id="applications-of-corpus-linguistics" class="level2">
+<h2 class="anchored" data-anchor-id="applications-of-corpus-linguistics">Applications of Corpus Linguistics</h2>
+<section id="research-applications" class="level3">
+<h3 class="anchored" data-anchor-id="research-applications">Research Applications</h3>
+<ul>
+<li><strong>Syntax</strong>: testing hypotheses about language structure (e.g., the frequency of ditransitive vs.&nbsp;prepositional dative constructions).</li>
+<li><strong>Semantics</strong>: tracking meaning shifts (e.g., how <em>literally</em> developed its intensifier meaning).</li>
+<li><strong>Language change</strong>: tracking how usage evolves over time (e.g., the decline of <em>whom</em> in favour of <em>who</em>).</li>
+<li><strong>Sociolinguistic variation</strong>: studying language across different groups/contexts (e.g., differences in the use of modal verbs between men and women).</li>
+</ul>
+</section>
+<section id="practical-applications" class="level3">
+<h3 class="anchored" data-anchor-id="practical-applications">Practical Applications</h3>
+<ul>
+<li><strong>Lexicography</strong>: compiling dictionaries with authentic examples
+<ul>
+<li>e.g.&nbsp;the COBUILD dictionary, which uses sentences from the Bank of English corpus</li>
+</ul></li>
+<li><strong>Language teaching</strong>: creating materials with authentic examples
+<ul>
+<li>e.g.&nbsp;frequency-based vocabulary lists like the Academic Word List</li>
+</ul></li>
+<li><strong>Translation</strong>: understanding collocations across languages
+<ul>
+<li>e.g.&nbsp;using a parallel corpus to find that <em>heavy rain</em> in English corresponds to <em>starker Regen</em> in German</li>
+</ul></li>
+<li><strong>Computational linguistics</strong>: training Large Language Models (LLMs)
+<ul>
+<li>e.g.&nbsp;models like ChatGPT are trained on massive text corpora</li>
+</ul></li>
+</ul>
+</section>
+</section>
+</section>
+<section id="key-concepts-in-corpus-linguistics" class="level1">
+<h1>Key Concepts in Corpus Linguistics</h1>
+<ul>
+<li><strong>Corpus</strong>: A large, structured collection of texts for linguistic analysis. Corpora can be general or specialised.</li>
+<li><strong>Annotation</strong>: Adding linguistic information (metadata) to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles.
+<ul>
+<li><strong>Metadata</strong>: Data <strong>about</strong> language use, including details about the corpus, texts (author, text type, register, topic), and tokens (word class, lemmatisation).</li>
+</ul></li>
+<li><strong>Concordance</strong>: A tool to search for words or phrases in a corpus and display them in context, helping to examine language patterns.</li>
+<li><strong>Collocations</strong>: The frequent co-occurrence of words within a specific context, revealing information about word usage, meaning, and associations.</li>
+<li><strong>Frequency</strong>: The analysis of how often linguistic features (words, structures) occur in a corpus, which helps identify patterns and trends.</li>
+<li><strong>N-grams</strong>: Contiguous sequences of <em>n</em> items in a text, used to study combinations and patterns (e.g., in the <em>Google N-grams</em> corpus).</li>
+<li><strong>Register</strong>: A language variety used in a specific context, characterised by particular linguistic features.</li>
+</ul>
+</section>
+<section id="types-of-corpora" class="level1">
+<h1>Types of Corpora</h1>
+<ul>
+<li><strong>By Time</strong>
+<ul>
+<li><strong>Diachronic corpus</strong>: texts from different periods to study language change (e.g., COHA).</li>
+<li><strong>Synchronic corpus</strong>: texts from the same time period (snapshot) (e.g., BNC 2014).</li>
+<li><strong>Monitor corpus</strong>: continuously updated with new texts (e.g., NOW Corpus).</li>
+</ul></li>
+<li><strong>By Language</strong>
+<ul>
+<li><strong>Monolingual corpus</strong>: texts in one language.</li>
+<li><strong>Parallel corpus</strong>: aligned translations in multiple languages.</li>
+</ul></li>
+<li><strong>By Medium/Content</strong>
+<ul>
+<li><strong>Web corpus</strong>: collected from internet texts.</li>
+<li><strong>Multi-modal corpus</strong>: includes audio/visual materials.</li>
+<li><strong>Specialised corpus</strong>: focused on a specific domain/topic.</li>
+<li><strong>Learner corpus</strong>: texts produced by language learners.</li>
+</ul></li>
+</ul>
+</section>
+<section id="overview-of-selected-corpora" class="level1">
+<h1>Overview of Selected Corpora</h1>
+<ul>
+<li><strong>EEBO</strong> (Early English Books Online):
+<ul>
+<li>525 million words from English texts printed between <strong>1473–1700</strong>, providing insight into Early Modern English.</li>
+</ul></li>
+<li><strong>COHA</strong> (Corpus of Historical American English):
+<ul>
+<li>400 million words of American English texts from <strong>1810–2009</strong>, tracking language use over two centuries.</li>
+</ul></li>
+<li><strong>BNC1994</strong>:
+<ul>
+<li>100 million words of British English texts from the 1990s; spoken and written; rich metadata.</li>
+</ul></li>
+<li><strong>COCA</strong> (Corpus of Contemporary American English):
+<ul>
+<li>1 billion words from <strong>1990–2019</strong>, balanced across text types (spoken, fiction, academic, web).</li>
+</ul></li>
+<li><strong>BNC2014</strong>:
+<ul>
+<li>Modern update to the BNC with contemporary British English from the 2010s; spoken and written; rich metadata.</li>
+</ul></li>
+<li><strong>English Trends</strong>:
+<ul>
+<li>A monitor corpus of news articles, Wikipedia, and other web sources, updated weekly with 70M new words, containing 83+ billion words from <strong>2014 to present</strong>.</li>
+</ul></li>
+<li><strong>NOW</strong> (News on the Web):
+<ul>
+<li>A monitor corpus of web news articles, continuously updated with 20+ billion words from <strong>2010 to present</strong>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="corpus-analysis-tools" class="level1">
+<h1>Corpus Analysis Tools</h1>
+<section id="platforms" class="level2">
+<h2 class="anchored" data-anchor-id="platforms">Platforms</h2>
+<ul>
+<li><a href="https://www.english-corpora.org/">english-corpora.org</a></li>
+<li><a href="https://www.sketchengine.eu/">Sketch Engine</a></li>
+<li><a href="https://cqpweb.lancs.ac.uk/">CQPWeb</a></li>
+</ul>
+</section>
+<section id="standalone-tools" class="level2">
+<h2 class="anchored" data-anchor-id="standalone-tools">Standalone Tools</h2>
+<ul>
+<li><a href="https://www.laurenceanthony.net/software/antconc/">AntConc</a></li>
+<li><a href="http://corpora.lancs.ac.uk/lancsbox/">#LancsBox</a></li>
+<li><a href="https://lexically.net/wordsmith/">WordSmith</a></li>
+</ul>
+</section>
+<section id="other-resources" class="level2">
+<h2 class="anchored" data-anchor-id="other-resources">Other Resources</h2>
+<ul>
+<li><a href="https://www.python.org/">Python</a> programming language</li>
+<li><a href="https://regex101.com/">Regular expressions</a></li>
+</ul>
+</section>
+</section>
+<section id="a-corpus-linguistic-workflow" class="level1">
+<h1>A Corpus-Linguistic Workflow</h1>
+<ul>
+<li>Formulate research questions and hypotheses.</li>
+<li>Select an appropriate corpus.</li>
+<li>Choose a corpus tool/platform.
+<ul>
+<li>Retrieve attestations using queries.</li>
+<li>Inspect data using concordance views.</li>
+<li>Apply corpus-linguistic methods (e.g., frequency analysis, collocations).</li>
+<li>Export data/results.</li>
+</ul></li>
+<li>Annotate data (e.g., in Excel).</li>
+<li>Conduct further data analysis (e.g., in Excel).</li>
+</ul>
+<p>See <span class="citation" data-cites="Stefanowitsch2020Corpus">Stefanowitsch (<a href="#ref-Stefanowitsch2020Corpus" role="doc-biblioref">2020</a>)</span> for more details.</p>
+</section>
+<section id="using-sketch-engine" class="level1">
+<h1>Using Sketch Engine</h1>
+<p>Tutorial: <a href="https://wuqui.github.io/SkEtut/" class="uri">https://wuqui.github.io/SkEtut/</a></p>
+<p>Sketch Engine is a powerful tool for corpus management and analysis.</p>
+<section id="main-features" class="level2">
+<h2 class="anchored" data-anchor-id="main-features">Main Features</h2>
+<ul>
+<li><strong>Corpus Management</strong>: create, host, annotate, and share your own corpora from local files (e.g., <code>.txt</code>, <code>.csv</code>, <code>.xml</code>).</li>
+<li><strong>Corpus Analysis</strong>: access many pre-loaded corpora, run simple and complex queries, and perform analyses like concordances, collocations, and text type analysis.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="att/Pasted image 20241129110700.png" class="img-fluid figure-img"></p>
+<figcaption>Sketch Engine main interface</figcaption>
+</figure>
+</div>
+</section>
+<section id="searching-corpora-with-cql" class="level2">
+<h2 class="anchored" data-anchor-id="searching-corpora-with-cql">Searching Corpora with CQL</h2>
+<p>Queries are run from the <code>Concordance</code> view using the <strong>Corpus Query Language (CQL)</strong>.</p>
+<ul>
+<li><strong>Tokens</strong> are enclosed in square brackets: <code>[attribute="value"]</code>.</li>
+<li><strong>Example</strong>: <code>[lemma="walk"]</code> finds <em>walk</em>, <em>walks</em>, <em>walked</em>, <em>walking</em>.</li>
+</ul>
+<section id="common-attributes" class="level3">
+<h3 class="anchored" data-anchor-id="common-attributes">Common Attributes</h3>
+<ul>
+<li><code>word</code>: exact word form</li>
+<li><code>lemma</code>: dictionary form</li>
+<li><code>tag</code>: part-of-speech tag (word class)</li>
+</ul>
+</section>
+<section id="operators-and-wildcards" class="level3">
+<h3 class="anchored" data-anchor-id="operators-and-wildcards">Operators and Wildcards</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 18%">
+<col style="width: 24%">
+<col style="width: 24%">
+<col style="width: 32%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Operator</th>
+<th>Description</th>
+<th>Example CQL</th>
+<th>Example Results</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>[]</code></td>
+<td>any single token</td>
+<td><code>[] [lemma="walk"]</code></td>
+<td>any word followed by <em>walk</em></td>
+</tr>
+<tr class="even">
+<td><code>\|</code></td>
+<td>OR operator</td>
+<td><code>[word="dog\|cat"]</code></td>
+<td><em>dog</em> or <em>cat</em></td>
+</tr>
+<tr class="odd">
+<td><code>&amp;</code></td>
+<td>AND operator</td>
+<td><code>[lemma="run" &amp; tag="V.*"]</code></td>
+<td><em>run</em> as a verb</td>
+</tr>
+<tr class="even">
+<td><code>.</code></td>
+<td>any single character</td>
+<td><code>[word="c.t"]</code></td>
+<td><em>cat</em>, <em>cut</em>, <em>cot</em></td>
+</tr>
+<tr class="odd">
+<td><code>+</code></td>
+<td>one or more of preceding</td>
+<td><code>[word="haha+"]</code></td>
+<td><em>hahaa</em>, <em>hahaaa</em></td>
+</tr>
+<tr class="even">
+<td><code>*</code></td>
+<td>zero or more of preceding</td>
+<td><code>[word="walk*"]</code></td>
+<td><em>haha</em>, <em>hahaa</em></td>
+</tr>
+<tr class="odd">
+<td><code>.*</code></td>
+<td>any sequence of characters</td>
+<td><code>[word="walk.*"]</code></td>
+<td><em>walk</em>, <em>walking</em>, <em>walker</em></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="example-query" class="level3">
+<h3 class="anchored" data-anchor-id="example-query">Example Query</h3>
+<p><code>[lemma="go"][word="to"][tag="N.*"]</code> finds <em>go to school</em>, <em>went to London</em>, <em>going to university</em>.</p>
+</section>
+</section>
+<section id="corpus-linguistic-analyses-in-sketch-engine" class="level2">
+<h2 class="anchored" data-anchor-id="corpus-linguistic-analyses-in-sketch-engine">Corpus-Linguistic Analyses in Sketch Engine</h2>
+<section id="concordances" class="level3">
+<h3 class="anchored" data-anchor-id="concordances">Concordances</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="att/Pasted image 20241129114922.png" class="img-fluid figure-img"></p>
+<figcaption>Concordance view</figcaption>
+</figure>
+</div>
+</section>
+<section id="frequency-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="frequency-analysis">Frequency Analysis</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="att/Pasted image 20241129115044.png" class="img-fluid figure-img"></p>
+<figcaption>Frequency analysis</figcaption>
+</figure>
+</div>
+</section>
+<section id="collocations" class="level3">
+<h3 class="anchored" data-anchor-id="collocations">Collocations</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="att/Pasted image 20241129115155.png" class="img-fluid figure-img"></p>
+<figcaption>Collocations view</figcaption>
+</figure>
+</div>
+</section>
+<section id="word-sketches" class="level3">
+<h3 class="anchored" data-anchor-id="word-sketches">Word Sketches</h3>
+<p>Word Sketches are one-page, automatic summaries of a word’s grammatical and collocational behaviour.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="att/Pasted image 20241129115245.png" class="img-fluid figure-img"></p>
+<figcaption>Word sketch example</figcaption>
+</figure>
+</div>
+</section>
+</section>
+</section>
+<section id="practice" class="level1">
+<h1>Practice</h1>
+<section id="searching-corpora" class="level2">
+<h2 class="anchored" data-anchor-id="searching-corpora">Searching Corpora</h2>
+<p>In the <strong>BNC 2014 Spoken</strong>, find all instances of:</p>
+<ol type="1">
+<li>The word <em>run</em>.
+<ul>
+<li><code>[word="run"]</code></li>
+</ul></li>
+<li>The noun <em>run</em>.
+<ul>
+<li><code>[word="run" &amp; tag="N.*"]</code></li>
+</ul></li>
+<li>The verb <em>RUN</em>.
+<ul>
+<li><code>[lemma="run" &amp; tag="V.*"]</code></li>
+</ul></li>
+<li>All verbs ending in <em>-ize</em> (e.g., <em>realize</em>, <em>maximize</em>).
+<ul>
+<li><code>[lemma=".*ize" &amp; tag="V.*"]</code></li>
+</ul></li>
+<li>The noun <em>RUN</em> preceded by an adjective.
+<ul>
+<li><code>[tag="J.*"] [lemma="run" &amp; tag="N.*"]</code></li>
+</ul></li>
+<li>Question tags (e.g., <em>isn’t it?</em>, <em>are you?</em>).
+<ul>
+<li><code>[lemma="be|do|have"] [word="n't"]?  [tag="PP.?"] [word="\?"]</code></li>
+</ul></li>
+<li>The construction <em>been V-ing</em> (e.g., <em>he been eating</em>).
+<ul>
+<li><code>[lemma!="have"] [lemma!="have|not"] [word="been"] [tag="V.*" &amp; word=".*ing"]  within &lt;u/&gt;</code></li>
+</ul></li>
+</ol>
+</section>
+<section id="analysing-data" class="level2">
+<h2 class="anchored" data-anchor-id="analysing-data">Analysing Data</h2>
+<p>In the <strong>BNC 2014 Spoken</strong>:</p>
+<ol type="1">
+<li>How frequent are <em>going to</em> vs.&nbsp;<em>gonna</em> as in <em>I’m [gonna | going to] go</em>?</li>
+<li>What are the most frequent verbs that complement <em>gonna</em>?</li>
+<li>Which age group uses <em>gonna</em> the most? (Use the <code>Agerange</code> text type variable).</li>
+<li>Compare the meaning and function of <em>gay</em> over time using Word Sketches in the EEBO and English Trends corpora.</li>
+</ol>
+</section>
+</section>
+<section id="references" class="level1">
+
+
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-McEnery2001Corpus" class="csl-entry" role="listitem">
+McEnery, Tony, and Andrew Wilson. 2001. <em>Corpus <span>Linguistics</span>. <span>An</span> Introduction</em>. 2nd ed. Edinburgh: Edinburgh University Press.
+</div>
+<div id="ref-Stefanowitsch2020Corpus" class="csl-entry" role="listitem">
+Stefanowitsch, Anatol. 2020. <em>Corpus Linguistics</em>. <em>Language Science Press</em>. Language Science Press. <a href="https://doi.org/10.5281/zenodo.3735822">https://doi.org/10.5281/zenodo.3735822</a>.
+</div>
+</div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,0 +1,276 @@
+---
+title: "6 Corpus linguistics: theory and methods"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-06-11"
+date-format: "long"
+bibliography: ../references.bib
+format:
+  html:
+    code-overflow: wrap
+    css: custom.css
+---
+
+# What is Corpus Linguistics?
+
+Corpus linguistics is a research methodology that systematically studies language using large collections of authentic texts, known as **corpora**. These collections, which can be either written or spoken, provide a comprehensive and empirical basis for analysing:
+
+- language use (e.g. collocational patterns such as *pretty woman*)
+- linguistic variation across different text types or communities (e.g. neologisms such as *smash*)
+- language change (e.g. *going to* future)
+
+The primary goal is to investigate linguistic phenomena by examining real-world language usage. This approach contrasts with traditional linguistic methods that rely heavily on introspection and theoretical speculation, such as Chomsky's poverty of the stimulus argument.
+
+Recent advances in data availability (e.g., web and social media corpora from Twitter and Reddit) and methods (e.g., social network analysis, machine learning) have given corpus linguistics significant momentum.
+
+"The term corpus linguistics refers to a methodology rather than a theory of language. The methodology consists in the empirical investigation of a specific set of research questions on the basis of authentic language data drawn from a corpus [...]" [@Stefanowitsch2020Corpus, p. 22]
+
+"A corpus-based analysis is always a quantitative analysis at its core, even where it is supplemented by qualitative methods. The analysis is based on the frequencies of linguistic phenomena in the corpus and their distribution across the texts or text categories that make up the corpus. This means that a corpus-based analysis is always a statistical analysis." [@Stefanowitsch2020Corpus, p. 55]
+
+@Stefanowitsch2020Corpus offers a phased definition of corpus linguistics:
+
+1. "Corpus linguistics is the investigation of linguistic phenomena on the basis of linguistic corpora." (p. 46)
+2. "Corpus linguistics is the complete and systematic investigation of linguistic phenomena on the basis of linguistic corpora." (p. 49)
+3. "Corpus linguistics is the complete and systematic investigation of linguistic phenomena on the basis of linguistic corpora using concordances, collocations, and frequency lists." (p. 54)
+
+# What is a Corpus?
+
+In principle, any collection of more than one text can be called a corpus. However, in modern linguistics, the term usually implies a more specific set of characteristics.
+
+"So a corpus in modern linguistics, in contrast to being simply any body of text, might more accurately be described as a finite-sized body of machine-readable text, sampled in order to be maximally representative of the language variety under consideration." [@McEnery2001Corpus, p. 32]
+
+According to @Stefanowitsch2020Corpus [p. 22–23], a corpus is a collection of language use samples with three key properties:
+
+1. The instances of language use are **authentic**.
+2. The collection is **representative** of the language or variety under investigation.
+3. The collection is **large**.
+
+## Authenticity
+
+"For a sample of language use to be authentic in the context of corpus linguistics, it must have been produced by a native speaker of the language or language variety under investigation in a natural communicative situation for a specific purpose. This means that the texts must not have been produced specifically for linguistic analysis, and they should not be translations from another language." [@Stefanowitsch2020Corpus, p. 26]
+
+## Representativeness
+
+"Put simply, a representative sample is a subset of a population that is identical to the population as a whole with respect to the distribution of the phenomenon under investigation. Thus, for a corpus (a sample of language use) to be representative of a particular language, the distribution of linguistic phenomena (words, grammatical structures, etc.) would have to be identical to their distribution in the language as a whole (or in the variety under investigation, see further below)." [@Stefanowitsch2020Corpus, p. 28]
+
+A **language variety** is any form of language that can be delineated from others based on cultural, linguistic, or demographic criteria. It serves as a superordinate term for:
+
+- **genre**: culturally defined and recognised varieties.
+- **register**: varieties characterised by a particular "functional configuration" (a bundle of linguistic features for a specific social function).
+- **style**: degrees of formality (e.g. formal, informal, colloquial).
+- **medium**: material manifestation (e.g. spoken, written).
+- **topic**: the content of texts or the discourse domain.
+- **text category**: a specific variety included in a corpus.
+
+[@Stefanowitsch2020Corpus, p. 29]
+
+## Size
+
+"There is no **principled answer** to the question "How large must a linguistic corpus be?" except, perhaps, an honest "It is impossible to say" (Renouf 1987: 130). 
+
+However, there are **two practical answers**.
+
+- The **more modest answer** is that it must be large enough to contain a sample of instances of the **phenomenon under investigation** that is large enough for analysis [...].
+- The **less modest answer** is that it must be large enough to contain sufficiently large samples of **every grammatical structure, vocabulary item, etc.** Given that an ever increasing number of texts from a broad range of language varieties is becoming accessible via the web, the second answer may not actually be as immodest as it sounds.
+
+Current corpora that at least make an honest attempt at diversity currently range from one million (e.g. the ICE corpora) to about half a billion (e.g. the COCA). [...] For most linguistic phenomena that researchers are likely to want to investigate, these corpus sizes seem sufficient. Let us take this broad range as characterizing a linguistic corpus for practical purposes." [@Stefanowitsch2020Corpus, p. 38]
+
+# Why Do Corpus Linguistics?
+
+From a usage-based perspective, corpora are an essential tool for studying language structure, variation, and change.
+
+"Broadly speaking, science is the study of some aspect of the (physical, natural or social) world by means of systematic observation and experimentation, and linguistics is the scientific study of those aspects of the world that we summarize under the label language."
+
+"Let us define a corpus somewhat crudely as a large collection of authentic text (i.e., samples of language produced in genuine communicative situations), and corpus linguistics as any form of linguistic inquiry based on data derived from such a corpus."
+
+"Defined in this way, corpora clearly constitute recorded observations of language behavior, so their place in linguistic research seems so obvious that anyone unfamiliar with the last sixty years of mainstream linguistic theorizing will wonder why their use would have to be justified at all." [@Stefanowitsch2020Corpus, p. 1]
+
+## Applications of Corpus Linguistics
+
+### Research Applications
+
+- **Syntax**: testing hypotheses about language structure (e.g., the frequency of ditransitive vs. prepositional dative constructions).
+- **Semantics**: tracking meaning shifts (e.g., how *literally* developed its intensifier meaning).
+- **Language change**: tracking how usage evolves over time (e.g., the decline of *whom* in favour of *who*).
+- **Sociolinguistic variation**: studying language across different groups/contexts (e.g., differences in the use of modal verbs between men and women).
+
+### Practical Applications
+
+- **Lexicography**: compiling dictionaries with authentic examples
+    - e.g. the COBUILD dictionary, which uses sentences from the Bank of English corpus
+- **Language teaching**: creating materials with authentic examples
+    - e.g. frequency-based vocabulary lists like the Academic Word List
+- **Translation**: understanding collocations across languages
+    - e.g. using a parallel corpus to find that *heavy rain* in English corresponds to *starker Regen* in German
+- **Computational linguistics**: training Large Language Models (LLMs) 
+    - e.g. models like ChatGPT are trained on massive text corpora
+
+# Key Concepts in Corpus Linguistics
+
+- **Corpus**: A large, structured collection of texts for linguistic analysis. Corpora can be general or specialised.
+- **Annotation**: Adding linguistic information (metadata) to a corpus, such as part-of-speech tags, syntactic structure, or semantic roles.
+    - **Metadata**: Data **about** language use, including details about the corpus, texts (author, text type, register, topic), and tokens (word class, lemmatisation).
+- **Concordance**: A tool to search for words or phrases in a corpus and display them in context, helping to examine language patterns.
+- **Collocations**: The frequent co-occurrence of words within a specific context, revealing information about word usage, meaning, and associations.
+- **Frequency**: The analysis of how often linguistic features (words, structures) occur in a corpus, which helps identify patterns and trends.
+- **N-grams**: Contiguous sequences of *n* items in a text, used to study combinations and patterns (e.g., in the *Google N-grams* corpus).
+- **Register**: A language variety used in a specific context, characterised by particular linguistic features.
+
+# Types of Corpora
+
+- **By Time**
+    - **Diachronic corpus**: texts from different periods to study language change (e.g., COHA).
+    - **Synchronic corpus**: texts from the same time period (snapshot) (e.g., BNC 2014).
+    - **Monitor corpus**: continuously updated with new texts (e.g., NOW Corpus).
+- **By Language**
+    - **Monolingual corpus**: texts in one language.
+    - **Parallel corpus**: aligned translations in multiple languages.
+- **By Medium/Content**
+    - **Web corpus**: collected from internet texts.
+    - **Multi-modal corpus**: includes audio/visual materials.
+    - **Specialised corpus**: focused on a specific domain/topic.
+    - **Learner corpus**: texts produced by language learners.
+
+# Overview of Selected Corpora
+
+- **EEBO** (Early English Books Online): 
+    - 525 million words from English texts printed between **1473–1700**, providing insight into Early Modern English.
+- **COHA** (Corpus of Historical American English): 
+    - 400 million words of American English texts from **1810–2009**, tracking language use over two centuries.
+- **BNC1994**: 
+    - 100 million words of British English texts from the 1990s; spoken and written; rich metadata.
+- **COCA** (Corpus of Contemporary American English): 
+    - 1 billion words from **1990–2019**, balanced across text types (spoken, fiction, academic, web).
+- **BNC2014**: 
+    - Modern update to the BNC with contemporary British English from the 2010s; spoken and written; rich metadata.
+- **English Trends**: 
+    - A monitor corpus of news articles, Wikipedia, and other web sources, updated weekly with 70M new words, containing 83+ billion words from **2014 to present**.
+- **NOW** (News on the Web): 
+    - A monitor corpus of web news articles, continuously updated with 20+ billion words from **2010 to present**.
+
+# Corpus Analysis Tools
+
+## Platforms
+
+- [english-corpora.org](https://www.english-corpora.org/)
+- [Sketch Engine](https://www.sketchengine.eu/)
+- [CQPWeb](https://cqpweb.lancs.ac.uk/)
+
+## Standalone Tools
+
+- [AntConc](https://www.laurenceanthony.net/software/antconc/)
+- [\#LancsBox](http://corpora.lancs.ac.uk/lancsbox/)
+- [WordSmith](https://lexically.net/wordsmith/)
+
+## Other Resources
+
+- [Python](https://www.python.org/) programming language
+- [Regular expressions](https://regex101.com/)
+
+# A Corpus-Linguistic Workflow
+
+- Formulate research questions and hypotheses.
+- Select an appropriate corpus.
+- Choose a corpus tool/platform.
+    - Retrieve attestations using queries.
+    - Inspect data using concordance views.
+    - Apply corpus-linguistic methods (e.g., frequency analysis, collocations).
+    - Export data/results.
+- Annotate data (e.g., in Excel).
+- Conduct further data analysis (e.g., in Excel).
+
+See @Stefanowitsch2020Corpus for more details.
+
+# Using Sketch Engine
+
+Tutorial: <https://wuqui.github.io/SkEtut/>
+
+Sketch Engine is a powerful tool for corpus management and analysis.
+
+## Main Features
+
+- **Corpus Management**: create, host, annotate, and share your own corpora from local files (e.g., `.txt`, `.csv`, `.xml`).
+- **Corpus Analysis**: access many pre-loaded corpora, run simple and complex queries, and perform analyses like concordances, collocations, and text type analysis.
+
+![Sketch Engine main interface](att/Pasted image 20241129110700.png)
+
+## Searching Corpora with CQL
+
+Queries are run from the `Concordance` view using the **Corpus Query Language (CQL)**.
+
+- **Tokens** are enclosed in square brackets: `[attribute="value"]`.
+- **Example**: `[lemma="walk"]` finds *walk*, *walks*, *walked*, *walking*.
+
+### Common Attributes
+
+- `word`: exact word form
+- `lemma`: dictionary form
+- `tag`: part-of-speech tag (word class)
+
+### Operators and Wildcards
+
+| Operator | Description | Example CQL | Example Results |
+|----------|-------------|-------------|-----------------|
+| `[]` | any single token | `[] [lemma="walk"]` | any word followed by *walk* |
+| `\|` | OR operator | `[word="dog\|cat"]` | *dog* or *cat* |
+| `&` | AND operator | `[lemma="run" & tag="V.*"]` | *run* as a verb |
+| `.` | any single character | `[word="c.t"]` | *cat*, *cut*, *cot* |
+| `+` | one or more of preceding | `[word="haha+"]` | *hahaa*, *hahaaa* |
+| `*` | zero or more of preceding | `[word="walk*"]` | *haha*, *hahaa* |
+| `.*` | any sequence of characters | `[word="walk.*"]` | *walk*, *walking*, *walker* |
+
+### Example Query
+
+`[lemma="go"][word="to"][tag="N.*"]` finds *go to school*, *went to London*, *going to university*.
+
+## Corpus-Linguistic Analyses in Sketch Engine
+
+### Concordances
+
+![Concordance view](att/Pasted image 20241129114922.png)
+
+### Frequency Analysis
+
+![Frequency analysis](att/Pasted image 20241129115044.png)
+
+### Collocations
+
+![Collocations view](att/Pasted image 20241129115155.png)
+
+### Word Sketches
+
+Word Sketches are one-page, automatic summaries of a word's grammatical and collocational behaviour.
+
+![Word sketch example](att/Pasted image 20241129115245.png)
+
+# Practice
+
+## Searching Corpora
+
+In the **BNC 2014 Spoken**, find all instances of:
+
+1. The word *run*.
+    - `[word="run"]`
+2. The noun *run*.
+    - `[word="run" & tag="N.*"]`
+3. The verb *RUN*.
+    - `[lemma="run" & tag="V.*"]`
+4. All verbs ending in *-ize* (e.g., *realize*, *maximize*).
+    - `[lemma=".*ize" & tag="V.*"]`
+5. The noun *RUN* preceded by an adjective.
+    - `[tag="J.*"] [lemma="run" & tag="N.*"]`
+6. Question tags (e.g., *isn't it?*, *are you?*).
+    - `[lemma="be|do|have"] [word="n't"]?  [tag="PP.?"] [word="\?"]`
+7. The construction *been V-ing* (e.g., *he been eating*).  
+    - `[lemma!="have"] [lemma!="have|not"] [word="been"] [tag="V.*" & word=".*ing"]  within <u/>`
+
+## Analysing Data
+
+In the **BNC 2014 Spoken**:
+
+1. How frequent are *going to* vs. *gonna* as in *I'm [gonna | going to] go*?
+2. What are the most frequent verbs that complement *gonna*?
+3. Which age group uses *gonna* the most? (Use the `Agerange` text type variable).
+4. Compare the meaning and function of *gay* over time using Word Sketches in the EEBO and English Trends corpora.
+
+# References
