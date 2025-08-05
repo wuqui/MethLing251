@@ -2,6 +2,7 @@
 title: "Methods in Linguistics"
 author: "Quirin Würschinger, LMU Munich"
 date-modified: last-modified
+bibliography: references.bib
 ---
 
 # Course schedule
@@ -11,23 +12,41 @@ date-modified: last-modified
 
 # Course description
 
-This course will guide you through the process of designing and conducting a research project in linguistics, from identifying a topic, to carrying out the research, to composing the final written document (e.g., term paper, BA thesis, Zulassungsarbeit).
-
-You will be offered practical advice on
-
-- planning and organising your work,
-- identifying and narrowing a topic,
-- developing and refining research questions,
-- finding and managing background information and literature,
-- effective and sustainable note-taking,
-- referencing literature and avoiding plagiarism,
-- collecting and analysing data using various methods (e.g. corpora, surveys),
-- reporting results and academic writing.
-
-For each topic, I will provide relevant materials and guide you through hands-on exercises to develop practical skills. You will have the opportunity to share your project ideas and receive constructive feedback.
+{{< include includes/_course-description.qmd >}}
 
 # Core textbooks
 
-Litosseliti, Lia. 2025. Research Methods in Linguistics. Bloomsbury Academic. https://www.bloomsbury.com/in/research-methods-in-linguistics-9781350429178/.
+@Litosseliti2025Methods
 
-Wray, Alison & Bloomer, Aileen. 2012. Projects in Linguistics. A Practical Guide to Researching Language. New York: Hodder Arnold.
+@Wray2012ProjectsLinguistics
+
+# Course objectives
+
+This course provides training in:
+
+- Research planning and project management
+- Literature review and reference management  
+- Data collection methods (corpus linguistics, surveys, interviews)
+- Statistical analysis and data visualisation
+- Academic writing and presentation skills
+
+# About this course
+
+**Methods in Linguistics** (MethLing251) is a practical research methods course offered at Ludwig-Maximilians-Universität München (LMU Munich). The course is designed to provide students with hands-on experience in linguistic research methodology.
+
+## Course information
+
+- **Course Code**: MethLing251
+- **Duration**: 12 sessions, 90 minutes each
+- **Format**: Interactive seminars with practical exercises
+- **Level**: Undergraduate/Graduate
+- **Instructor**: Dr. Quirin Würschinger, Institut für Englische Philologie
+
+## Learning approach
+
+This course emphasises:
+
+- **Hands-on practice** with real research tools
+- **Interactive learning** through pair work and group discussions
+- **Practical application** of methodological concepts
+- **Critical thinking** about research design and analysis

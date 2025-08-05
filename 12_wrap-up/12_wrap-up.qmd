@@ -111,7 +111,7 @@ Now let's discuss how different methods complement each other.
 
 ## Tool Integration Workflow
 
-1. **Obsidian/Logseq**: Networked note-taking throughout
+1. **Obsidian**: Networked note-taking throughout
 2. **Zotero**: Literature management and citation
 3. **Dictionaries**: e.g. OED for creating a sample of target words
 3. **Corpus tools**: Sketch Engine and english-corpora.org for data collection

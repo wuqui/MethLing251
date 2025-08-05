@@ -1,0 +1,135 @@
+---
+title: "Session 01: Organisation and introduction"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-04-23"
+date-format: "long"
+bibliography: ../references.bib
+---
+
+# Organisation
+
+## Course materials
+
+Course website: <https://wuqui.github.io/MethLing251/>
+
+## Registration
+
+Open issues?
+
+Are you taking this course as part of a Modulprüfung? → See [course requirements](../index.qmd#course-information) for details about WP 13.
+
+## Course description
+
+{{< include ../includes/_course-description.qmd >}}
+
+## Schedule
+
+{{< include ../includes/_schedule.qmd >}}
+
+## Requirements
+
+Assessment formats vary based on ECTS credits:
+
+- **3 ECTS**: short paper (≈ 3–5 pages)
+- **6 ECTS**: long paper (≈ 10–12 pages)
+
+Check your *Studien-/Prüfungsordnung* for the exact specification.
+
+# Introduction
+
+## Motivations, expectations, and goals
+
+- What is your background?
+    - previous experience, study programme, field of linguistics, etc.
+- What kind of a project are you going to work on?
+    - **type**: term paper, BA thesis, Zulassungsarbeit etc.
+    - **domain**: (linguistic) field, supervisor
+    - **deadline**: when are you planning to conduct and finish your project?
+- Which topic are you planning to write your paper about?
+- Which data and methods are you planning to use?
+
+## Note-taking
+
+### Mental lexicon
+![Mental lexicon concept](att/mental-lexicon.png){width="600"}
+
+### Networked notes
+![Networked notes example](att/networked-notes.png){width="600"}
+
+### The Zettelkasten method (Niklas Luhmann)
+![Zettelkasten method illustration](att/zettelkasten-method.png){width="600"}
+
+See @Ahrens2017ZettelkastenPrinzip.
+
+Tools: e.g. [Obsidian](https://obsidian.md/)
+
+## Self-management
+
+![Gantt chart example](att/gantt-chart.png){width="600"}
+
+## Research questions and hypotheses
+
+![Research questions and hypotheses framework](att/research-questions-hypotheses.png){width="600"}
+
+- research question
+	- hypothesis: what do you expect?
+		- Why do I expect to find this? (→ literature)
+
+## References management
+
+![Zotero screenshot](att/zotero-screenshot.png){width="600"}
+
+[Zotero](https://www.zotero.org/)
+
+## Reading and writing
+
+![Writing process diagram](att/writing-process.png){width="600"}
+
+## Linguistic data and methods
+
+### Dictionaries
+- Urban Dictionary
+- Wiktionary
+- OED
+    
+![Oxford English Dictionary screenshot](att/oed-screenshot.png){width="600"}
+
+### Questionnaires
+
+![Questionnaire example](att/questionnaire-example.png){width="600"}
+
+### Corpora
+
+#### Sketch Engine
+![Sketch Engine query example](att/sketch-engine-distancing-query.png){width="600"}
+
+#### english-corpora.org
+![English Corpora screenshot](att/english-corpora-org-screenshot.png){width="600"}
+
+## Data analysis
+
+### Using Microsoft Excel
+
+#### Using tables
+![Excel table example](att/excel-table-example.png){width="600"}
+
+#### Using pivot tables
+![Excel pivot table example](att/excel-pivot-table-example.png){width="600"}
+
+#### Creating visualisations
+![Excel visualisations example](att/excel-visualisations-example.png){width="600"}
+
+## Presenting results
+
+### Slides
+![Example of a bad presentation slide](att/bad-presentation-slide.png){width="600"}
+
+### Charts
+![Example of a bad pie chart](att/bad-pie-chart.png){width="600"}
+
+# For next week …
+
+There will be no in-person class next week since I'm attending a conference.
+
+Please read Chapter 1 in @Litosseliti2025Methods.
