@@ -1,0 +1,230 @@
+---
+title: "Session 03: Research questions and hypotheses"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-05-21"
+date-format: "long"
+bibliography: ../references.bib
+---
+
+# Research questions
+
+## What is a research question?
+
+- A research question (RQ) is the "compass" of your study
+- It determines your aims and guides your choices of:
+    - empirical data
+    - theoretical concepts
+    - literature
+- It should be suitable for:
+    - operationalisation with empirical data, or
+    - challenging theoretical positions
+
+## Types of research questions
+
+### By function
+
+- **descriptive**: aim to accurately and systematically describe a phenomenon
+    - *example*: "What patterns of code-switching occur among bilingual teenagers in Munich?"
+- **explanatory**: seek to clarify reasons behind a phenomenon
+    - *example*: "Why do bilingual teenagers switch codes more frequently in peer-group settings?"
+- **evaluative**: assess effectiveness or value of language components
+    - *example*: "How effective is the new language policy in promoting multilingualism?"
+- **causal-comparative**: explore cause-and-effect relationships
+    - *example*: "How does age influence the accommodation process?"
+- **correlational**: examine relationships between variables
+    - *example*: "To what extent does language exposure correlate with proficiency?"
+
+### By relation to project
+
+- **primary vs secondary**
+    - primary: drive core aim of project
+    - secondary: provide additional details
+- **main vs contributory**
+    - main: central to research purpose
+    - contributory: explore additional facets
+- **overarching vs subordinate**
+    - overarching: set broad framework
+    - subordinate: address specific elements
+- **empirical vs methodological vs theoretical**
+    - empirical: test hypotheses
+    - methodological: focus on techniques
+    - theoretical: explore underlying theories
+- **researcher-generated vs participant-generated**
+    - researcher-generated: based on scholarly expertise
+    - participant-generated: arise from participant interests
+- **empirical vs speculative**
+    - empirical: based on observable evidence
+    - speculative: explore hypothetical scenarios (introspection)
+
+## Formulating research questions
+
+- **wording**
+    - define every content word precisely
+    - ensure understandability
+    - use interrogative form
+- **number**
+    - start with many, narrow down
+    - ensure manageability
+- **sequence**
+    - consider logical order
+    - build on previous questions
+
+# Hypotheses
+
+## What is a hypothesis?
+
+- A prerequisite for drawing conclusions
+- An assumed answer to a question
+- A generally valid claim
+- An assumption about real phenomena
+- A prediction of findings
+
+## Characteristics
+
+- More precise than research questions
+- Statement to be confirmed or refuted
+- About potential relations between variables
+- Must be falsifiable
+- Can be operationalised
+
+## The null hypothesis
+
+- Special case in negative form
+- States that observed differences occur by chance
+- No correlation between variables
+- Research aims to reject (or accept) it
+
+# Practice: RQ or Hypothesis? Sharpening the Focus
+
+Let's practice distinguishing between research questions, hypotheses, and general statements/topics, and to consider how they can be refined.
+
+## Instructions
+
+1. You will be divided into small breakout rooms for about 7-10 minutes
+2. In your groups, discuss each of the statements below
+3. For each statement, decide:
+    - Is it a Research Question (RQ)? If so, what type might it be (descriptive, explanatory, etc.)?
+    - Is it a Hypothesis (H)? If so, what might be a corresponding RQ? Can you think of a null hypothesis?
+    - Is it Neither (e.g., a general topic or an aim)? If so, how could it be sharpened into a good RQ or a testable H?
+4. Be prepared to share your group's thoughts when we reconvene
+
+## Statements for Discussion
+
+1. The language of online gaming
+2. Investigating whether younger learners acquire new vocabulary faster than older learners
+3. Children who read more books will have larger vocabularies
+4. How do bilingual children develop code-switching skills between the ages of 3 and 5?
+5. Using phonics instruction improves reading scores in first-grade students
+
+# Important criteria
+
+## Variables
+
+- "Feature of a particular case, and a particular case can take one of a set of possible features" [@Rasinger2010QuantitativeMethods, 53]
+- *example*: gender as variable with two (or more) values
+- **independent vs dependent**
+    - independent: manipulated or controlled
+    - dependent: measured or observed
+
+## Operationalisation
+
+- Translating properties into numerical values
+- Essential for quantitative methods
+- *example*: measuring politeness through:
+    - formal pronoun usage (*Sie* vs *du*)
+    - politeness markers per utterance
+
+## Reliability and validity
+
+- **reliability**
+    - study must be replicable
+    - results must be consistent
+- **validity**
+    - method must be appropriate
+    - must measure what it claims to measure
+    - **internal**: results not skewed by non-intended factors
+    - **external**: generalisation to larger populations
+
+# Practice: evaluating and developing RQ
+
+Now, let's apply these concepts to some practical examples and begin developing your own research ideas.
+
+## Evaluating research questions
+
+We've explored the building blocks of strong research questions and hypotheses. Now, let's practice applying this knowledge by critically evaluating some examples in detail.
+
+### Instructions
+
+For each research question presented below:
+
+1. **Critique (2-3 minutes per RQ)**: Individually, analyse the research question. Drawing on the criteria we've discussed (like clarity, scope, operationalisability, and the characteristics of good RQs), consider and jot down:
+    - Its potential strengths
+    - Its potential weaknesses or areas needing clarification/refinement
+    - Your initial suggestions for improvement
+
+2. **Discuss & Compare**: Share your critique with the class
+
+### 1. How does age influence the accommodation process?
+
+- narrow down age range (e.g., specific developmental stages like adolescence, early adulthood, or old age)
+- consider if "age" or "generation" is more appropriate
+- specify the time period (e.g., present-day, historical)
+- define the place/society (e.g., specific city, cultural context)
+- clarify "influence": positive, negative, or specific types of influence?
+- make "How…?" more specific: in which particular ways does it influence?
+- specify aspects of "accommodation" (e.g., phonetic, lexical, syntactic, pragmatic)
+
+### 2. Age and gender influence language use
+
+- this is a statement, not a question. It needs to be rephrased into an interrogative form
+- "language use" is too broad; specify which aspects of language use (e.g., vocabulary choice, politeness strategies, turn-taking)
+- "influence": similar to the above, how does it influence?
+- consider focusing on either age *or* gender, or clearly define how their interaction will be studied
+
+### 3. How do teenagers differ from adults in their use of swear words?
+
+- "adults": narrow down the age range for comparison (e.g., young adults, middle-aged adults)
+- "how": specify the nature of the difference (e.g., frequency, type of swear words, contexts of use)
+- "use": clarify usage contexts (e.g., informal peer talk, social media, formal settings)
+- provide a clear definition of "swear words" for the study
+- specify time period and place/society
+
+## Finding your own research questions
+
+1. Choose a topic
+    - broad enough to be interesting
+    - narrow enough to be doable
+    - strong linguistic focus
+2. Formulate research questions
+    - check scope and focus
+    - ensure manageability
+3. Develop hypotheses
+    - based on expectations
+    - supported by literature
+4. Review previous work
+    - identify gaps
+    - determine contribution
+5. Plan data and methods
+    - suitable data sources
+    - appropriate methods
+
+# Further reading
+
+- @Litosseliti2025Methods
+- @Sunderland2010ResearchQuestions
+- @Rasinger2010QuantitativeMethods
+
+# Key takeaways
+
+- Well-formulated **research questions (RQs)** are the compass of any empirical study, guiding data collection, methodology, and analysis
+- **Hypotheses** are specific, testable predictions derived from RQs, particularly prominent in quantitative research
+- RQs can be **descriptive** (what), **explanatory** (why/how), **evaluative**, **causal-comparative**, or **correlational**, each suggesting different approaches
+- Key criteria for good RQs and hypotheses include:
+    - **Clarity and precision**: all terms must be clearly defined
+    - **Operationalisability**: concepts must be translatable into measurable variables
+    - **Falsifiability**: hypotheses must be refutable
+    - **Manageability**: the scope should be feasible within given constraints
+- **Variables** (independent and dependent) are central to operationalisation
+- **Reliability** (consistency of results) and **validity** (measuring what is intended) are crucial for the credibility of your research
+- Developing RQs and hypotheses is often an iterative process, refined as you engage with literature and data 

@@ -11,6 +11,8 @@ project:
     - "!.claude/"
     - "!quarto/"
     - "01_organisation-introduction/01_organisation-introduction.qmd"
+    - "02_self-management-notes/02_self-management-notes.qmd"
+    - "03_research-questions-hypotheses/03_research-questions-hypotheses.qmd"
     - "07_corpus-linguistics-2/slides.qmd"
     - "08_questionnaires-interview/questionnaires-interviews.qmd"
     - "09_reading/09_reading.qmd"
@@ -32,6 +34,10 @@ website:
         menu:
           - text: "Session 01: Organisation and Introduction"
             href: 01_organisation-introduction/01_organisation-introduction.html
+          - text: "Session 02: Self-management and Notes"
+            href: 02_self-management-notes/02_self-management-notes.html
+          - text: "Session 03: Research Questions & Hypotheses"
+            href: 03_research-questions-hypotheses/03_research-questions-hypotheses.html
           - text: "Session 07: Corpus Linguistics 2"
             href: 07_corpus-linguistics-2/slides.html
           - text: "Session 08: Questionnaires & Interviews" 

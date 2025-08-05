@@ -28,7 +28,6 @@ bibliography: ../references.bib
 
 - **Meaning:** Defining each concept in measurable, observable terms so data and methods map directly onto your questions
 - **Importance:** Ensures clarity, replicability, and that findings actually address the questions posed
-
 - **Example ("politeness"):**
   - **Definition:** Use of formal pronouns (*Sie* vs. *du*) and mitigators (*bitte*, *könnten Sie*…) in German requests
   - **Measurement:**
