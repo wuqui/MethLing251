@@ -25,7 +25,9 @@ project:
     - "10_writing/10_writing.qmd"
     - "10_writing/10_writing-slides.qmd"
     - "11_analysing-data/11_analysing-data.qmd"
+    - "11_analysing-data/11_analysing-data-slides.qmd"
     - "12_wrap-up/12_wrap-up.qmd"
+    - "12_wrap-up/12_wrap-up-slides.qmd"
 
 execute:
   enabled: false

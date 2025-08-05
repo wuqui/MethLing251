@@ -26,7 +26,7 @@ Assessment formats vary based on ECTS credits:
 → Check your *Studien-/Prüfungsordnung* for the exact specification.
 
 ::: {.callout-note}
-**Deadline** for research proposal: Submit via email in PDF format by 29 August 2025.
+**Deadline** for research proposal: Submit via email in PDF format by [29 August 2025]{.mark}.
 :::
 
 
@@ -81,7 +81,7 @@ When planning your project, consider:
 For successful term papers:
 
 - Apply the complete research cycle
-- Use multiple methods for robustness
+- Use multiple methods for robustnes
 - Document your process thoroughly
 
 

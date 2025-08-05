@@ -12,6 +12,7 @@ format:
     plugins:
       - revealjs-text-resizer
 css: custom.css
+bibliography: ../references.bib
 ---
 
 # Overview
