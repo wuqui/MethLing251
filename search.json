@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Methods in Linguistics",
     "section": "",
-    "text": "Course schedule\n\n\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n1\n23 Apr\nOrganisation and introduction\n\n\n2\n14 May\nSelf-management and taking notes\n\n\n3\n21 May\nResearch questions and hypotheses\n\n\n4\n28 May\nReference management & reading\n\n\n5\n4 Jun\nDictionaries\n\n\n6\n11 Jun\nCorpus linguistics: theory and methods\n\n\n7\n18 Jun\nCorpus linguistics: searching, analysing and creating corpora\n\n\n8\n25 Jun\nQuestionnaires & interviews\n\n\n9\n2 Jul\nReading\n\n\n10\n9 Jul\nWriting\n\n\n11\n16 Jul\nAnalysing data\n\n\n12\n23 Jul\nWrap-up\n\n\n\n\n\nCourse description\nThis course will guide you through the process of designing and conducting a research project in linguistics, from identifying a topic, to carrying out the research, to composing the final written document (e.g., term paper, BA thesis, Zulassungsarbeit).\nYou will be offered practical advice on\n\nplanning and organising your work,\nidentifying and narrowing a topic,\ndeveloping and refining research questions,\nfinding and managing background information and literature,\neffective and sustainable note-taking,\nreferencing literature and avoiding plagiarism,\ncollecting and analysing data using various methods (e.g. corpora, surveys),\nreporting results and academic writing.\n\nFor each topic, I will provide relevant materials and guide you through hands-on exercises to develop practical skills. You will have the opportunity to share your project ideas and receive constructive feedback.\n\n\nCore textbooks\nLitosseliti, Lia. 2025. Research Methods in Linguistics. Bloomsbury Academic. https://www.bloomsbury.com/in/research-methods-in-linguistics-9781350429178/.\nWray, Alison & Bloomer, Aileen. 2012. Projects in Linguistics. A Practical Guide to Researching Language. New York: Hodder Arnold."
+    "text": "Date\nTopic\n\n\n\n\n1\n23 Apr\nOrganisation and introduction\n\n\n2\n14 May\nSelf-management and taking notes\n\n\n3\n21 May\nResearch questions and hypotheses\n\n\n4\n28 May\nReference management & reading\n\n\n5\n4 Jun\nDictionaries\n\n\n6\n11 Jun\nCorpus linguistics: theory and methods\n\n\n7\n18 Jun\nCorpus linguistics: searching, analysing and creating corpora\n\n\n8\n25 Jun\nQuestionnaires & interviews\n\n\n9\n2 Jul\nReading\n\n\n10\n9 Jul\nWriting\n\n\n11\n16 Jul\nAnalysing data\n\n\n12\n23 Jul\nWrap-up"
+  },
+  {
+    "objectID": "index.html#course-information",
+    "href": "index.html#course-information",
+    "title": "Methods in Linguistics",
+    "section": "Course information",
+    "text": "Course information\n\nCourse Code: MethLing251\nDuration: 12 sessions, 90 minutes each\nFormat: Interactive seminars with practical exercises\nLevel: Undergraduate/Graduate\nInstructor: Dr. Quirin Würschinger, Institut für Englische Philologie"
+  },
+  {
+    "objectID": "index.html#learning-approach",
+    "href": "index.html#learning-approach",
+    "title": "Methods in Linguistics",
+    "section": "Learning approach",
+    "text": "Learning approach\nThis course emphasises:\n\nHands-on practice with real research tools\nInteractive learning through pair work and group discussions\nPractical application of methodological concepts\nCritical thinking about research design and analysis"
   },
   {
     "objectID": "12_wrap-up/12_wrap-up.html#our-journey-through-research-methods",
@@ -53,7 +67,7 @@
     "href": "12_wrap-up/12_wrap-up.html#tool-integration-workflow",
     "title": "Wrap-up",
     "section": "Tool Integration Workflow",
-    "text": "Tool Integration Workflow\n\nObsidian/Logseq: Networked note-taking throughout\nZotero: Literature management and citation\nDictionaries: e.g. OED for creating a sample of target words\nCorpus tools: Sketch Engine and english-corpora.org for data collection\nExcel: Statistical analysis and visualization\n\nWord/LaTeX: Final writing and formatting"
+    "text": "Tool Integration Workflow\n\nObsidian: Networked note-taking throughout\nZotero: Literature management and citation\nDictionaries: e.g. OED for creating a sample of target words\nCorpus tools: Sketch Engine and english-corpora.org for data collection\nExcel: Statistical analysis and visualization\n\nWord/LaTeX: Final writing and formatting"
   },
   {
     "objectID": "12_wrap-up/12_wrap-up.html#case-study-1-corpus-based-analysis",
@@ -229,6 +243,111 @@
     "title": "Writing",
     "section": "Structure of an Abstract",
     "text": "Structure of an Abstract\n\n13:25–13:45 (Reference slide)\n\nA good abstract usually includes:\n\nBackground/Motivation: Why is this research important? What is the context? (1–2 sentences)\nProblem/Gap/Research Question: What specific problem does your research address? What is your main question or hypothesis? (1 sentence)\nMethods/Approach: What did you do to answer your question? Briefly describe your data and methods. (1–2 sentences)\nResults/Key Findings: What is your most important finding or argument? (1–2 sentences)\nConclusion/Contribution: What are the implications of your findings? What is your contribution to the field? (1 sentence)"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html",
+    "href": "01_organisation-introduction/01_organisation-introduction.html",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "Course website: https://wuqui.github.io/MethLing251/\n\n\n\nOpen issues?\nAre you taking this course as part of a Modulprüfung? → See course requirements for details about WP 13.\n\n\n\nThis course will guide you through the process of designing and conducting a research project in linguistics, from identifying a topic, to carrying out the research, to composing the final written document (e.g., term paper, BA thesis, Zulassungsarbeit).\nYou will be offered practical advice on\n\nplanning and organising your work,\nidentifying and narrowing a topic,\ndeveloping and refining research questions,\nfinding and managing background information and literature,\neffective and sustainable note-taking,\nreferencing literature and avoiding plagiarism,\ncollecting and analysing data using various methods (e.g. corpora, surveys),\nreporting results and academic writing.\n\nFor each topic, I will provide relevant materials and guide you through hands-on exercises to develop practical skills. You will have the opportunity to share your project ideas and receive constructive feedback.\n\n\n\n\n\n\n\n\n\n\n\n\nDate\nTopic\n\n\n\n\n1\n23 Apr\nOrganisation and introduction\n\n\n2\n14 May\nSelf-management and taking notes\n\n\n3\n21 May\nResearch questions and hypotheses\n\n\n4\n28 May\nReference management & reading\n\n\n5\n4 Jun\nDictionaries\n\n\n6\n11 Jun\nCorpus linguistics: theory and methods\n\n\n7\n18 Jun\nCorpus linguistics: searching, analysing and creating corpora\n\n\n8\n25 Jun\nQuestionnaires & interviews\n\n\n9\n2 Jul\nReading\n\n\n10\n9 Jul\nWriting\n\n\n11\n16 Jul\nAnalysing data\n\n\n12\n23 Jul\nWrap-up\n\n\n\n\n\n\nAssessment formats vary based on ECTS credits:\n\n3 ECTS: short paper (≈ 3–5 pages)\n6 ECTS: long paper (≈ 10–12 pages)\n\nCheck your Studien-/Prüfungsordnung for the exact specification."
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#course-materials",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#course-materials",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "Course website: https://wuqui.github.io/MethLing251/"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#registration",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#registration",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "Open issues?\nAre you taking this course as part of a Modulprüfung? → See course requirements for details about WP 13."
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#course-description",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#course-description",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "This course will guide you through the process of designing and conducting a research project in linguistics, from identifying a topic, to carrying out the research, to composing the final written document (e.g., term paper, BA thesis, Zulassungsarbeit).\nYou will be offered practical advice on\n\nplanning and organising your work,\nidentifying and narrowing a topic,\ndeveloping and refining research questions,\nfinding and managing background information and literature,\neffective and sustainable note-taking,\nreferencing literature and avoiding plagiarism,\ncollecting and analysing data using various methods (e.g. corpora, surveys),\nreporting results and academic writing.\n\nFor each topic, I will provide relevant materials and guide you through hands-on exercises to develop practical skills. You will have the opportunity to share your project ideas and receive constructive feedback."
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#schedule",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#schedule",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "Date\nTopic\n\n\n\n\n1\n23 Apr\nOrganisation and introduction\n\n\n2\n14 May\nSelf-management and taking notes\n\n\n3\n21 May\nResearch questions and hypotheses\n\n\n4\n28 May\nReference management & reading\n\n\n5\n4 Jun\nDictionaries\n\n\n6\n11 Jun\nCorpus linguistics: theory and methods\n\n\n7\n18 Jun\nCorpus linguistics: searching, analysing and creating corpora\n\n\n8\n25 Jun\nQuestionnaires & interviews\n\n\n9\n2 Jul\nReading\n\n\n10\n9 Jul\nWriting\n\n\n11\n16 Jul\nAnalysing data\n\n\n12\n23 Jul\nWrap-up"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#requirements",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#requirements",
+    "title": "Session 01: Organisation and introduction",
+    "section": "",
+    "text": "Assessment formats vary based on ECTS credits:\n\n3 ECTS: short paper (≈ 3–5 pages)\n6 ECTS: long paper (≈ 10–12 pages)\n\nCheck your Studien-/Prüfungsordnung for the exact specification."
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#motivations-expectations-and-goals",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#motivations-expectations-and-goals",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Motivations, expectations, and goals",
+    "text": "Motivations, expectations, and goals\n\nWhat is your background?\n\nprevious experience, study programme, field of linguistics, etc.\n\nWhat kind of a project are you going to work on?\n\ntype: term paper, BA thesis, Zulassungsarbeit etc.\ndomain: (linguistic) field, supervisor\ndeadline: when are you planning to conduct and finish your project?\n\nWhich topic are you planning to write your paper about?\nWhich data and methods are you planning to use?"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#note-taking",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#note-taking",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Note-taking",
+    "text": "Note-taking\n\nMental lexicon\n\n\n\nMental lexicon concept\n\n\n\n\nNetworked notes\n\n\n\nNetworked notes example\n\n\n\n\nThe Zettelkasten method (Niklas Luhmann)\n\n\n\nZettelkasten method illustration\n\n\nSee Ahrens (2017).\nTools: e.g. Obsidian"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#self-management",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#self-management",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Self-management",
+    "text": "Self-management\n\n\n\nGantt chart example"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#research-questions-and-hypotheses",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#research-questions-and-hypotheses",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Research questions and hypotheses",
+    "text": "Research questions and hypotheses\n\n\n\nResearch questions and hypotheses framework\n\n\n\nresearch question\n\nhypothesis: what do you expect?\n\nWhy do I expect to find this? (→ literature)"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#references-management",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#references-management",
+    "title": "Session 01: Organisation and introduction",
+    "section": "References management",
+    "text": "References management\n\n\n\nZotero screenshot\n\n\nZotero"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#reading-and-writing",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#reading-and-writing",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Reading and writing",
+    "text": "Reading and writing\n\n\n\nWriting process diagram"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#linguistic-data-and-methods",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#linguistic-data-and-methods",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Linguistic data and methods",
+    "text": "Linguistic data and methods\n\nDictionaries\n\nUrban Dictionary\nWiktionary\nOED\n\n\n\n\nOxford English Dictionary screenshot\n\n\n\n\nQuestionnaires\n\n\n\nQuestionnaire example\n\n\n\n\nCorpora\n\nSketch Engine\n\n\n\nSketch Engine query example\n\n\n\n\nenglish-corpora.org\n\n\n\nEnglish Corpora screenshot"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#data-analysis",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#data-analysis",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Data analysis",
+    "text": "Data analysis\n\nUsing Microsoft Excel\n\nUsing tables\n\n\n\nExcel table example\n\n\n\n\nUsing pivot tables\n\n\n\nExcel pivot table example\n\n\n\n\nCreating visualisations\n\n\n\nExcel visualisations example"
+  },
+  {
+    "objectID": "01_organisation-introduction/01_organisation-introduction.html#presenting-results",
+    "href": "01_organisation-introduction/01_organisation-introduction.html#presenting-results",
+    "title": "Session 01: Organisation and introduction",
+    "section": "Presenting results",
+    "text": "Presenting results\n\nSlides\n\n\n\nExample of a bad presentation slide\n\n\n\n\nCharts\n\n\n\nExample of a bad pie chart"
   },
   {
     "objectID": "11_analysing-data/11_analysing-data.html#session-overview",
