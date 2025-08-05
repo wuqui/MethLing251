@@ -39,140 +39,21 @@
     "href": "index.html#term-paper-guidance",
     "title": "Methods in Linguistics",
     "section": "Term paper guidance",
-    "text": "Term paper guidance\nWhen planning your project, consider:\n\ntype: term paper, BA thesis, Zulassungsarbeit etc.\ndomain: (linguistic) field, supervisor\ndeadline: when are you planning to conduct and finish your project?\n\nFor successful term papers:\n\nApply the complete research cycle\nUse multiple methods for robustness\nDocument your process thoroughly"
+    "text": "Term paper guidance\nWhen planning your project, consider:\n\ntype: term paper, BA thesis, Zulassungsarbeit etc.\ndomain: (linguistic) field, supervisor\ndeadline: when are you planning to conduct and finish your project?\n\nFor successful term papers:\n\nApply the complete research cycle\nUse multiple methods for robustnes\nDocument your process thoroughly"
   },
   {
-    "objectID": "12_wrap-up/12_wrap-up.html#our-journey-through-research-methods",
-    "href": "12_wrap-up/12_wrap-up.html#our-journey-through-research-methods",
-    "title": "Wrap-up",
-    "section": "Our Journey Through Research Methods",
-    "text": "Our Journey Through Research Methods\nFrom topic identification to data analysis:\n\nFoundation (Sessions 1-4): Organization, note-taking, research questions, references\nData Sources (Sessions 5-7): Dictionaries, corpus linguistics theory & practice, corpus search\nData Collection (Sessions 8-9): Questionnaires, interviews, reading strategies\nOutput & Analysis (Sessions 10-11): Academic writing, data analysis\nIntegration (Today): Bringing it all together\nFinal Project: Your own research project"
+    "objectID": "12_wrap-up/12_wrap-up.html",
+    "href": "12_wrap-up/12_wrap-up.html",
+    "title": "12 Wrap-up",
+    "section": "",
+    "text": "Note\n\n\n\nUse the space bar to navigate through the slides. Press ‘f’ for fullscreen mode, or click here to open the slides in a new window."
   },
   {
-    "objectID": "12_wrap-up/12_wrap-up.html#key-learning-objectives",
-    "href": "12_wrap-up/12_wrap-up.html#key-learning-objectives",
-    "title": "Wrap-up",
-    "section": "Key Learning Objectives",
-    "text": "Key Learning Objectives\n\nPlan and organize research work effectively\nDevelop focused research questions and hypotheses\nFind, manage and synthesize literature\nCollect data using various methods (corpora, surveys)\nAnalyze data with appropriate statistical tools\nWrite and present research findings academically"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#from-idea-to-publication",
-    "href": "12_wrap-up/12_wrap-up.html#from-idea-to-publication",
-    "title": "Wrap-up",
-    "section": "From Idea to Publication",
-    "text": "From Idea to Publication\n\nTopic Identification\nResearch Questions and Hypotheses\nLiterature Review\nMethod Selection\nData Collection\nData Analysis\nWriting & Reporting\nPeer Review & Publication"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#example-complete-research-project",
-    "href": "12_wrap-up/12_wrap-up.html#example-complete-research-project",
-    "title": "Wrap-up",
-    "section": "Example: Complete Research Project",
-    "text": "Example: Complete Research Project\nResearch Question: “How has the use of modal verbs changed in academic writing over the past 20 years?”\n\nPlanning (Session 2): Gantt chart, SMART goals\nResearch Question (Session 3): Operationalizable, testable hypothesis\nLiterature (Session 4): Zotero for reference management\nData Source (Sessions 6-7): COCA corpus, time-series analysis\nAnalysis (Session 11): Statistical trends, Excel visualization\nWriting (Session 10): Clear structure, academic style"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#mixed-methods-approach",
-    "href": "12_wrap-up/12_wrap-up.html#mixed-methods-approach",
-    "title": "Wrap-up",
-    "section": "Mixed Methods Approach",
-    "text": "Mixed Methods Approach\nQuantitative + Qualitative = Richer Insights\n\n\n\n\n\n\n\n\nMethod\nStrengths\nBest Used For\n\n\n\n\nCorpus Analysis\nLarge datasets, patterns\nLanguage change, frequency trends\n\n\nSurveys\nStandardized responses\nAttitudes, self-reported behavior\n\n\nInterviews\nDetailed insights\nMotivations, complex phenomena\n\n\nExperiments\nControlled variables\nCausal relationships"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#triangulation-example",
-    "href": "12_wrap-up/12_wrap-up.html#triangulation-example",
-    "title": "Wrap-up",
-    "section": "Triangulation Example",
-    "text": "Triangulation Example\nResearch Question: “Why do young Germans use English loanwords?”\n\nCorpus: Frequency of English loanwords (Sessions 6-7)\nSurvey: Attitudes toward English borrowing (Session 8)\n\nInterviews: Personal motivations and contexts (Session 8)\nAnalysis: Integration of quantitative/qualitative findings (Session 11)"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#tool-integration-workflow",
-    "href": "12_wrap-up/12_wrap-up.html#tool-integration-workflow",
-    "title": "Wrap-up",
-    "section": "Tool Integration Workflow",
-    "text": "Tool Integration Workflow\n\nObsidian: Networked note-taking throughout\nZotero: Literature management and citation\nDictionaries: e.g. OED for creating a sample of target words\nCorpus tools: Sketch Engine and english-corpora.org for data collection\nExcel: Statistical analysis and visualization\n\nWord/LaTeX: Final writing and formatting"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#case-study-1-corpus-based-analysis",
-    "href": "12_wrap-up/12_wrap-up.html#case-study-1-corpus-based-analysis",
-    "title": "Wrap-up",
-    "section": "Case Study 1: Corpus-Based Analysis",
-    "text": "Case Study 1: Corpus-Based Analysis\nProject: Tracking semantic change of woke\nTools and data sources:\n\nCOCA time-series data (2000-2020)\nExcel pivot tables for frequency analysis\nCollocation analysis and Word Sketches in Sketch Engine\n\nKey Findings:\n\n2010-2015: Primarily African American vernacular\n2016-2020: Mainstream political discourse\nSemantic broadening + evaluative shift"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#case-study-2-survey-interview-study",
-    "href": "12_wrap-up/12_wrap-up.html#case-study-2-survey-interview-study",
-    "title": "Wrap-up",
-    "section": "Case Study 2: Survey + Interview Study",
-    "text": "Case Study 2: Survey + Interview Study\nProject: Multilingual identity in Munich\nDesign:\n\nOnline questionnaire (n=200): Language use patterns\nSemi-structured interviews (n=20): Identity narratives\n\nMixed-methods analysis: statistical + thematic\n\nTools: Google Forms, Excel analysis & qualitative coding"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#structure-recap-empirical-papers",
-    "href": "12_wrap-up/12_wrap-up.html#structure-recap-empirical-papers",
-    "title": "Wrap-up",
-    "section": "Structure Recap: Empirical Papers",
-    "text": "Structure Recap: Empirical Papers\n\nIntroduction: Research gap & research questions and hypotheses\nLiterature Review: Theoretical background + previous findings\n\nMethodology: Data sources + analytical procedures\nResults: Findings with evidence (tables, figures)\nDiscussion: Interpretation, implications, limitations, future work\nConclusion: Summary, broader implications"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#key-writing-principles",
-    "href": "12_wrap-up/12_wrap-up.html#key-writing-principles",
-    "title": "Wrap-up",
-    "section": "Key Writing Principles",
-    "text": "Key Writing Principles\n\nClarity over elegance: Simple, precise language (e.g. verbs &gt; nouns, active &gt; passive voice)\nEvidence-based claims: Every statement supported\nLogical flow: Coherent argument structure\nReproducible methods: Detailed procedure descriptions"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#tools-for-academic-writing",
-    "href": "12_wrap-up/12_wrap-up.html#tools-for-academic-writing",
-    "title": "Wrap-up",
-    "section": "Tools for Academic Writing",
-    "text": "Tools for Academic Writing\n\nPlanning: Mind maps, outlines (Session 10), time management\nWriting: Word with citation management (e.g. Zotero)\nRevision: Peer feedback, iterative process\nStyle: Academic conventions, stylesheet"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#data-setup",
-    "href": "12_wrap-up/12_wrap-up.html#data-setup",
-    "title": "Wrap-up",
-    "section": "Data setup",
-    "text": "Data setup\n\nStatistical thinking frameworkTidy Data Principles (Wickham 2014):\n\nEach observation forms a row: Every single data point in a different row\nEach variable forms a column: Clear visibility and easy manipulation\n\nColumn names should be descriptive: Clear, informative headers\nStore metadata separately: Data collection process, coding guides\nFavour long format over wide: More rows, fewer columns\nKeep raw data separate: Use new tabs for analyses"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#visualization-principles",
-    "href": "12_wrap-up/12_wrap-up.html#visualization-principles",
-    "title": "Wrap-up",
-    "section": "Visualization Principles",
-    "text": "Visualization Principles\n\nData analysis accuracyGood Visualizations:\n\nClear axis labels and titles\nAppropriate chart types for data\nAccessible color schemes\nIntegrated into text discussion\n\nAvoid: 3D charts, excessive decoration, misleading scales"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#your-research-toolkit",
-    "href": "12_wrap-up/12_wrap-up.html#your-research-toolkit",
-    "title": "Wrap-up",
-    "section": "Your Research Toolkit",
-    "text": "Your Research Toolkit\n\n\n\n\n\nProject planning framework\n\n\n\n\n\n\nKnowledge management approach\n\n\n\nYou now have a complete methodological foundation:\n\nPlanning tools: Gantt charts, SMART goals\nLiterature management: Zotero, systematic searching\nNote-taking: Networked notes, knowledge connections\nData collection: Corpus linguistics, surveys, interviews\nAnalysis skills: Statistical thinking, Excel proficiency\nCommunication: Academic writing"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#next-steps",
-    "href": "12_wrap-up/12_wrap-up.html#next-steps",
-    "title": "Wrap-up",
-    "section": "Next Steps",
-    "text": "Next Steps\nFor Term Papers:\n\nApply the complete research cycle\nUse multiple methods for robustness\nDocument your process thoroughly\n\nFor Future Research:\n\nStatistical methods (e.g. chi-squared test, t-test)\nAdvanced corpus analysis (Sketch Engine, english-corpora.org, CQPweb)\nExperimental design software (e.g. Qualtrics, SurveyMonkey)"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#continued-learning-resources",
-    "href": "12_wrap-up/12_wrap-up.html#continued-learning-resources",
-    "title": "Wrap-up",
-    "section": "Continued Learning Resources",
-    "text": "Continued Learning Resources\n\n\n\n\n\nReading methodology framework\n\n\n\n\nGeneral references:\n\nLitosseliti (2025)\nWray and Bloomer (2012)\n\nReferences for further reading in the corresponding course sessions\nOnline tutorials on Sketch Engine and english-corpora.org"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#feedback",
-    "href": "12_wrap-up/12_wrap-up.html#feedback",
-    "title": "Wrap-up",
-    "section": "Feedback",
-    "text": "Feedback\n\n13:37–13:42 (5 minutes) Gather student feedback on course effectiveness and suggestions for improvement.\n\nHelp to improve the course! Quick feedback on:\n\nMost valuable session/topic: What helped you most in your research?\nPractical tools: Which tools will you actually use? (Zotero, Excel, Sketch Engine, survey platforms)\nContent balance: Right mix of theory vs. hands-on practice?\nSession format: Effective use of pair work, group discussions, exercises?\nMissing elements: What would you add to better support linguistic research?\n\n\n\nWhat worked well?\n\nSpecific examples appreciated\n\n\nWhat could be improved?\n\nConstructive suggestions welcome"
-  },
-  {
-    "objectID": "12_wrap-up/12_wrap-up.html#final-questions-discussion",
-    "href": "12_wrap-up/12_wrap-up.html#final-questions-discussion",
-    "title": "Wrap-up",
-    "section": "Final Questions & Discussion",
-    "text": "Final Questions & Discussion\nWhat aspects would you like to explore further in your own research?\n\n13:42–13:45 (3 minutes) Buffer time for final questions and wrap-up.\n\nThank you for an engaging semester!"
+    "objectID": "11_analysing-data/11_analysing-data.html",
+    "href": "11_analysing-data/11_analysing-data.html",
+    "title": "11 Analysing Data",
+    "section": "",
+    "text": "Note\n\n\n\nUse the space bar to navigate through the slides. Press ‘f’ for fullscreen mode, or click here to open the slides in a new window."
   },
   {
     "objectID": "10_writing/10_writing.html",
@@ -945,144 +826,277 @@
     "text": "Structure of an Abstract\n\n13:25–13:45 (Reference slide)\n\nA good abstract usually includes:\n\nBackground/Motivation: Why is this research important? What is the context? (1–2 sentences)\nProblem/Gap/Research Question: What specific problem does your research address? What is your main question or hypothesis? (1 sentence)\nMethods/Approach: What did you do to answer your question? Briefly describe your data and methods. (1–2 sentences)\nResults/Key Findings: What is your most important finding or argument? (1–2 sentences)\nConclusion/Contribution: What are the implications of your findings? What is your contribution to the field? (1 sentence)"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#session-overview",
-    "href": "11_analysing-data/11_analysing-data.html#session-overview",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#session-overview",
+    "href": "11_analysing-data/11_analysing-data-slides.html#session-overview",
     "title": "Analysing Data",
     "section": "Session Overview",
     "text": "Session Overview\n\nFirst half:\n\nStatistical concepts\ndata organisation\n\nSecond half: Practical analysis with Excel and corpus tools"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#learning-objectives",
-    "href": "11_analysing-data/11_analysing-data.html#learning-objectives",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#learning-objectives",
+    "href": "11_analysing-data/11_analysing-data-slides.html#learning-objectives",
     "title": "Analysing Data",
     "section": "Learning Objectives",
     "text": "Learning Objectives\n\nUnderstand basic statistical concepts for linguistic research\nLearn principles of tidy data organisation\nPractice data analysis using Microsoft Excel\nApply statistical methods to corpus data"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#descriptive-statistics",
-    "href": "11_analysing-data/11_analysing-data.html#descriptive-statistics",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#descriptive-statistics",
+    "href": "11_analysing-data/11_analysing-data-slides.html#descriptive-statistics",
     "title": "Analysing Data",
     "section": "Descriptive Statistics",
     "text": "Descriptive Statistics\nDefinition: Summarise and organise characteristics of a data set\nLinguistic Example:\n\nNumber of requests made by males vs. females in conversations\nAverage, range, most common number of requests\n\nExcel Functions:\n\nAVERAGE, COUNT, MIN, MAX, STDEV.S, VAR.S"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#inferential-statistics",
-    "href": "11_analysing-data/11_analysing-data.html#inferential-statistics",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#inferential-statistics",
+    "href": "11_analysing-data/11_analysing-data-slides.html#inferential-statistics",
     "title": "Analysing Data",
     "section": "Inferential Statistics",
     "text": "Inferential Statistics\nDefinition: Use sample data to make inferences about populations\nLinguistic Example: - Test if there’s a significant difference in requests between males and females - Use sample data to infer about broader population patterns\nExcel Tools:\n\nData Analysis add-in, t-Tests, ANOVA, regression analysis"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#normal-distribution",
-    "href": "11_analysing-data/11_analysing-data.html#normal-distribution",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#normal-distribution",
+    "href": "11_analysing-data/11_analysing-data-slides.html#normal-distribution",
     "title": "Analysing Data",
     "section": "Normal Distribution",
     "text": "Normal Distribution\nDefinition: Symmetric probability distribution around the mean (bell curve)\nLinguistic Examples:\n\nWord frequencies in large corpora\nSentence length distributions\nResponse times in psycholinguistic experiments\n\nKey Properties:\n\n68% of data within ±1 standard deviation\n95% of data within ±2 standard deviations\n99.7% of data within ±3 standard deviations"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#variance-and-standard-deviation",
-    "href": "11_analysing-data/11_analysing-data.html#variance-and-standard-deviation",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#variance-and-standard-deviation",
+    "href": "11_analysing-data/11_analysing-data-slides.html#variance-and-standard-deviation",
     "title": "Analysing Data",
     "section": "Variance and Standard Deviation",
     "text": "Variance and Standard Deviation\nVariance: Measure of spread from the mean\nStandard Deviation: Square root of variance, in same units as data\nMathematical Formula:\n\\[\\text{Variance} = \\frac{\\sum_{i=1}^{n} (x_i - \\bar{x})^2}{n}\\]\nWhere: \\(x_i\\) = individual data points; \\(\\bar{x}\\) = mean of the data; \\(n\\) = number of observations.\nExcel Functions:\n\nPopulation: VAR.P, STDEV.P\nSample: VAR.S, STDEV.S\n\nLinguistic Application: Measuring variability in word frequencies across different text types"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#mean-median-mode",
-    "href": "11_analysing-data/11_analysing-data.html#mean-median-mode",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#mean-median-mode",
+    "href": "11_analysing-data/11_analysing-data-slides.html#mean-median-mode",
     "title": "Analysing Data",
     "section": "Mean, Median, Mode",
     "text": "Mean, Median, Mode\nExample: Sentence lengths: 8, 8, 10, 12, 35\n\nMean: Average value\n\n\n(8 + 8 + 10 + 12 + 35) / 5\n\n\nResult: 14.6 words\nSensitive to outliers\n\n\nMedian: Middle value in ordered set\n\n\nResult: 10 words\nRobust to outliers\n\n\nMode: Most frequent value\n\n\nResult: 8 words\nShows most common pattern\n\n\n\n\nWhen to Use Each Measure\n\nMean: When data is normally distributed\nMedian: When data has outliers or is skewed\nMode: For categorical data or identifying common patterns"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#key-concepts",
-    "href": "11_analysing-data/11_analysing-data.html#key-concepts",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#key-concepts",
+    "href": "11_analysing-data/11_analysing-data-slides.html#key-concepts",
     "title": "Analysing Data",
     "section": "Key Concepts",
     "text": "Key Concepts\n\nNull Hypothesis (H₀): No effect or difference exists\nAlternative Hypothesis (H₁): Effect or difference exists\np-value: Probability of observing data if H₀ is true\n\n\nLinguistic Examples:\n\nH₀: No difference in request frequency between male and female speakers\n\nH₁: Female speakers use more requests than male speakers\n\nH₀: No correlation between text length and lexical diversity\n\nH₁: Longer texts have higher lexical diversity scores\n\nH₀: No difference in word length between formal and informal registers\n\nH₁: Formal registers contain longer words than informal registers\n\n\n\n\nConventional Decision Rules:\n\np ≤ 0.05: Reject H₀ (significant result)\np &gt; 0.05: Fail to reject H₀\n\nDanger: “p-hacking”"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#excel-statistical-functions",
-    "href": "11_analysing-data/11_analysing-data.html#excel-statistical-functions",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#excel-statistical-functions",
+    "href": "11_analysing-data/11_analysing-data-slides.html#excel-statistical-functions",
     "title": "Analysing Data",
     "section": "Excel Statistical Functions",
     "text": "Excel Statistical Functions\nT.TEST()\n\nPurpose: Compare means between two groups\nLinguistic Applications:\n\nCompare word lengths between corpora\nAnalyse sentence complexity across genres\nEvaluate grammatical structure frequencies\n\nSyntax: =T.TEST(array1, array2, tails, type)\n\n\nCHISQ.TEST()\n\nPurpose: Test independence between categorical variables\nLinguistic Applications:\n\nParts of speech distribution across genres\nText type vs. linguistic feature relationships\n\nSyntax: =CHISQ.TEST(observed_range, expected_range)"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#evaluation-metrics",
-    "href": "11_analysing-data/11_analysing-data.html#evaluation-metrics",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#evaluation-metrics",
+    "href": "11_analysing-data/11_analysing-data-slides.html#evaluation-metrics",
     "title": "Analysing Data",
     "section": "Evaluation Metrics",
     "text": "Evaluation Metrics\n\nAccuracy:\n\nOverall correctness\n\\(\\frac{TP + TN}{TP + TN + FP + FN}\\)\n\nPrecision:\n\nHow many identified items are correct\n\\(\\frac{TP}{TP + FP}\\)\n\nRecall:\n\nHow many actual items were found\n\\(\\frac{TP}{TP + FN}\\)\n\nF1-Score:\n\nHarmonic mean of precision and recall\n\\(2 * \\frac{Precision * Recall}{Precision + Recall}\\)"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#absolute-vs.-relative-frequency",
-    "href": "11_analysing-data/11_analysing-data.html#absolute-vs.-relative-frequency",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#absolute-vs.-relative-frequency",
+    "href": "11_analysing-data/11_analysing-data-slides.html#absolute-vs.-relative-frequency",
     "title": "Analysing Data",
     "section": "Absolute vs. Relative Frequency",
     "text": "Absolute vs. Relative Frequency\n\nAbsolute Frequency: Raw count of occurrences\nRelative Frequency: Per million words (normalised)"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#corpus-platform-examples",
-    "href": "11_analysing-data/11_analysing-data.html#corpus-platform-examples",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#corpus-platform-examples",
+    "href": "11_analysing-data/11_analysing-data-slides.html#corpus-platform-examples",
     "title": "Analysing Data",
     "section": "Corpus Platform Examples",
     "text": "Corpus Platform Examples\nEnglish-Corpora.org\n\nCOHA Query Results\nFREQ: Absolute frequency\nWORDS (M): Corpus size in millions\nPER MIL: Relative frequency per million words"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#hadley-wickhams-tidy-data-rules",
-    "href": "11_analysing-data/11_analysing-data.html#hadley-wickhams-tidy-data-rules",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#hadley-wickhams-tidy-data-rules",
+    "href": "11_analysing-data/11_analysing-data-slides.html#hadley-wickhams-tidy-data-rules",
     "title": "Analysing Data",
     "section": "Hadley Wickham’s Tidy Data Rules",
     "text": "Hadley Wickham’s Tidy Data Rules\n\nEach observation forms a row\n\nEvery single observation in a different row\n\nEach variable forms a column\n\nClear visibility and easy manipulation\n\nEach type of observational unit forms a table\n\nDifferent units in different sheets/tables\n\nColumn names should be descriptive\n\nClear, informative headers\n\nStore metadata separately\n\nData collection process, coding guides\n\nAvoid wide format, favour long format\n\nMore rows, fewer columns\n\nDRY: Don’t Repeat Yourself\n\nUse pivot tables, avoid duplication"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#organisational-tips",
-    "href": "11_analysing-data/11_analysing-data.html#organisational-tips",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#organisational-tips",
+    "href": "11_analysing-data/11_analysing-data-slides.html#organisational-tips",
     "title": "Analysing Data",
     "section": "Organisational Tips",
     "text": "Organisational Tips\n\nUse new tabs for analyses (keep raw data separate)\nCreate tables for structured data\nUse pivot tables for powerful analysis\nCreate pivot charts for visualisation\n\n\nPivot Chart Example"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#data-management",
-    "href": "11_analysing-data/11_analysing-data.html#data-management",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#data-management",
+    "href": "11_analysing-data/11_analysing-data-slides.html#data-management",
     "title": "Analysing Data",
     "section": "Data Management",
     "text": "Data Management\n\nBackup your raw data\nDocument your analysis steps\nUse formulas instead of manual calculations\nValidate your data entry"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#research-context",
-    "href": "11_analysing-data/11_analysing-data.html#research-context",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#research-context",
+    "href": "11_analysing-data/11_analysing-data-slides.html#research-context",
     "title": "Analysing Data",
     "section": "Research Context",
     "text": "Research Context\n(Hilpert, Correia Saavedra, and Rains 2023)\n\nHilpert’s Clipping AnalysisBackground: Analysing clipping patterns in English: source words (e.g., brother) and clipped forms (e.g., bro)\nResearch Question: How do clipping pairs vary in frequency of use (across text types) and in terms of meaning?"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#overview",
-    "href": "11_analysing-data/11_analysing-data.html#overview",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#overview",
+    "href": "11_analysing-data/11_analysing-data-slides.html#overview",
     "title": "Analysing Data",
     "section": "Overview",
     "text": "Overview\n\nExtract a set of clippings from the OED.\nAnalyse their morphological features in Excel.\nStudy their overall frequency using Sketch Engine."
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#retrieving-clippings-from-the-oed",
-    "href": "11_analysing-data/11_analysing-data.html#retrieving-clippings-from-the-oed",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#retrieving-clippings-from-the-oed",
+    "href": "11_analysing-data/11_analysing-data-slides.html#retrieving-clippings-from-the-oed",
     "title": "Analysing Data",
     "section": "1. Retrieving clippings from the OED",
     "text": "1. Retrieving clippings from the OED\n\nuse Advanced Search\norder by Date (newest first)\nexport as csv"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#analyse-their-morphological-features-in-excel",
-    "href": "11_analysing-data/11_analysing-data.html#analyse-their-morphological-features-in-excel",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#analyse-their-morphological-features-in-excel",
+    "href": "11_analysing-data/11_analysing-data-slides.html#analyse-their-morphological-features-in-excel",
     "title": "Analysing Data",
     "section": "2. Analyse their morphological features in Excel",
     "text": "2. Analyse their morphological features in Excel\nModel sheet: https://1drv.ms/x/c/9a2ec97d593520f9/Ebpx8y_9sQZMjoL7cr0egkABLIrmcgPCLjOcoKRA7yIZ7Q\n\nMost frequent word classes?\nMost frequent word-formation types?\nDistribution across date of use?\nDistribution across subjects?"
   },
   {
-    "objectID": "11_analysing-data/11_analysing-data.html#study-their-overall-frequency-using-sketch-engine",
-    "href": "11_analysing-data/11_analysing-data.html#study-their-overall-frequency-using-sketch-engine",
+    "objectID": "11_analysing-data/11_analysing-data-slides.html#study-their-overall-frequency-using-sketch-engine",
+    "href": "11_analysing-data/11_analysing-data-slides.html#study-their-overall-frequency-using-sketch-engine",
     "title": "Analysing Data",
     "section": "3. Study their overall frequency using Sketch Engine",
     "text": "3. Study their overall frequency using Sketch Engine\nModel sheet: https://1drv.ms/x/c/9a2ec97d593520f9/EfKdCQluHJZEimPLisZGKTwBN3QH-kLcXyDCfzC0CRk5DQ\nBasic frequency measures:\n\nabsolute frequency\nrelative frequency\n\nFrequency distribution across:\n\nGenre\nTopic"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#our-journey-through-research-methods",
+    "href": "12_wrap-up/12_wrap-up-slides.html#our-journey-through-research-methods",
+    "title": "Wrap-up",
+    "section": "Our Journey Through Research Methods",
+    "text": "Our Journey Through Research Methods\nFrom topic identification to data analysis:\n\nFoundation (Sessions 1-4): Organization, note-taking, research questions, references\nData Sources (Sessions 5-7): Dictionaries, corpus linguistics theory & practice, corpus search\nData Collection (Sessions 8-9): Questionnaires, interviews, reading strategies\nOutput & Analysis (Sessions 10-11): Academic writing, data analysis\nIntegration (Today): Bringing it all together\nFinal Project: Your own research project"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#key-learning-objectives",
+    "href": "12_wrap-up/12_wrap-up-slides.html#key-learning-objectives",
+    "title": "Wrap-up",
+    "section": "Key Learning Objectives",
+    "text": "Key Learning Objectives\n\nPlan and organize research work effectively\nDevelop focused research questions and hypotheses\nFind, manage and synthesize literature\nCollect data using various methods (corpora, surveys)\nAnalyze data with appropriate statistical tools\nWrite and present research findings academically"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#from-idea-to-publication",
+    "href": "12_wrap-up/12_wrap-up-slides.html#from-idea-to-publication",
+    "title": "Wrap-up",
+    "section": "From Idea to Publication",
+    "text": "From Idea to Publication\n\nTopic Identification\nResearch Questions and Hypotheses\nLiterature Review\nMethod Selection\nData Collection\nData Analysis\nWriting & Reporting\nPeer Review & Publication"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#example-complete-research-project",
+    "href": "12_wrap-up/12_wrap-up-slides.html#example-complete-research-project",
+    "title": "Wrap-up",
+    "section": "Example: Complete Research Project",
+    "text": "Example: Complete Research Project\nResearch Question: “How has the use of modal verbs changed in academic writing over the past 20 years?”\n\nPlanning (Session 2): Gantt chart, SMART goals\nResearch Question (Session 3): Operationalizable, testable hypothesis\nLiterature (Session 4): Zotero for reference management\nData Source (Sessions 6-7): COCA corpus, time-series analysis\nAnalysis (Session 11): Statistical trends, Excel visualization\nWriting (Session 10): Clear structure, academic style"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#mixed-methods-approach",
+    "href": "12_wrap-up/12_wrap-up-slides.html#mixed-methods-approach",
+    "title": "Wrap-up",
+    "section": "Mixed Methods Approach",
+    "text": "Mixed Methods Approach\nQuantitative + Qualitative = Richer Insights\n\n\n\n\n\n\n\n\nMethod\nStrengths\nBest Used For\n\n\n\n\nCorpus Analysis\nLarge datasets, patterns\nLanguage change, frequency trends\n\n\nSurveys\nStandardized responses\nAttitudes, self-reported behavior\n\n\nInterviews\nDetailed insights\nMotivations, complex phenomena\n\n\nExperiments\nControlled variables\nCausal relationships"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#triangulation-example",
+    "href": "12_wrap-up/12_wrap-up-slides.html#triangulation-example",
+    "title": "Wrap-up",
+    "section": "Triangulation Example",
+    "text": "Triangulation Example\nResearch Question: “Why do young Germans use English loanwords?”\n\nCorpus: Frequency of English loanwords (Sessions 6-7)\nSurvey: Attitudes toward English borrowing (Session 8)\n\nInterviews: Personal motivations and contexts (Session 8)\nAnalysis: Integration of quantitative/qualitative findings (Session 11)"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#tool-integration-workflow",
+    "href": "12_wrap-up/12_wrap-up-slides.html#tool-integration-workflow",
+    "title": "Wrap-up",
+    "section": "Tool Integration Workflow",
+    "text": "Tool Integration Workflow\n\nObsidian: Networked note-taking throughout\nZotero: Literature management and citation\nDictionaries: e.g. OED for creating a sample of target words\nCorpus tools: Sketch Engine and english-corpora.org for data collection\nExcel: Statistical analysis and visualization\n\nWord/LaTeX: Final writing and formatting"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#case-study-1-corpus-based-analysis",
+    "href": "12_wrap-up/12_wrap-up-slides.html#case-study-1-corpus-based-analysis",
+    "title": "Wrap-up",
+    "section": "Case Study 1: Corpus-Based Analysis",
+    "text": "Case Study 1: Corpus-Based Analysis\nProject: Tracking semantic change of woke\nTools and data sources:\n\nCOCA time-series data (2000-2020)\nExcel pivot tables for frequency analysis\nCollocation analysis and Word Sketches in Sketch Engine\n\nKey Findings:\n\n2010-2015: Primarily African American vernacular\n2016-2020: Mainstream political discourse\nSemantic broadening + evaluative shift"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#case-study-2-survey-interview-study",
+    "href": "12_wrap-up/12_wrap-up-slides.html#case-study-2-survey-interview-study",
+    "title": "Wrap-up",
+    "section": "Case Study 2: Survey + Interview Study",
+    "text": "Case Study 2: Survey + Interview Study\nProject: Multilingual identity in Munich\nDesign:\n\nOnline questionnaire (n=200): Language use patterns\nSemi-structured interviews (n=20): Identity narratives\n\nMixed-methods analysis: statistical + thematic\n\nTools: Google Forms, Excel analysis & qualitative coding"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#structure-recap-empirical-papers",
+    "href": "12_wrap-up/12_wrap-up-slides.html#structure-recap-empirical-papers",
+    "title": "Wrap-up",
+    "section": "Structure Recap: Empirical Papers",
+    "text": "Structure Recap: Empirical Papers\n\nIntroduction: Research gap & research questions and hypotheses\nLiterature Review: Theoretical background + previous findings\n\nMethodology: Data sources + analytical procedures\nResults: Findings with evidence (tables, figures)\nDiscussion: Interpretation, implications, limitations, future work\nConclusion: Summary, broader implications"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#key-writing-principles",
+    "href": "12_wrap-up/12_wrap-up-slides.html#key-writing-principles",
+    "title": "Wrap-up",
+    "section": "Key Writing Principles",
+    "text": "Key Writing Principles\n\nClarity over elegance: Simple, precise language (e.g. verbs &gt; nouns, active &gt; passive voice)\nEvidence-based claims: Every statement supported\nLogical flow: Coherent argument structure\nReproducible methods: Detailed procedure descriptions"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#tools-for-academic-writing",
+    "href": "12_wrap-up/12_wrap-up-slides.html#tools-for-academic-writing",
+    "title": "Wrap-up",
+    "section": "Tools for Academic Writing",
+    "text": "Tools for Academic Writing\n\nPlanning: Mind maps, outlines (Session 10), time management\nWriting: Word with citation management (e.g. Zotero)\nRevision: Peer feedback, iterative process\nStyle: Academic conventions, stylesheet"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#data-setup",
+    "href": "12_wrap-up/12_wrap-up-slides.html#data-setup",
+    "title": "Wrap-up",
+    "section": "Data setup",
+    "text": "Data setup\n\nStatistical thinking frameworkTidy Data Principles (Wickham 2014):\n\nEach observation forms a row: Every single data point in a different row\nEach variable forms a column: Clear visibility and easy manipulation\n\nColumn names should be descriptive: Clear, informative headers\nStore metadata separately: Data collection process, coding guides\nFavour long format over wide: More rows, fewer columns\nKeep raw data separate: Use new tabs for analyses"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#visualization-principles",
+    "href": "12_wrap-up/12_wrap-up-slides.html#visualization-principles",
+    "title": "Wrap-up",
+    "section": "Visualization Principles",
+    "text": "Visualization Principles\n\nData analysis accuracyGood Visualizations:\n\nClear axis labels and titles\nAppropriate chart types for data\nAccessible color schemes\nIntegrated into text discussion\n\nAvoid: 3D charts, excessive decoration, misleading scales"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#your-research-toolkit",
+    "href": "12_wrap-up/12_wrap-up-slides.html#your-research-toolkit",
+    "title": "Wrap-up",
+    "section": "Your Research Toolkit",
+    "text": "Your Research Toolkit\n\n\n\n\n\nProject planning framework\n\n\n\n\n\n\nKnowledge management approach\n\n\n\nYou now have a complete methodological foundation:\n\nPlanning tools: Gantt charts, SMART goals\nLiterature management: Zotero, systematic searching\nNote-taking: Networked notes, knowledge connections\nData collection: Corpus linguistics, surveys, interviews\nAnalysis skills: Statistical thinking, Excel proficiency\nCommunication: Academic writing"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#next-steps",
+    "href": "12_wrap-up/12_wrap-up-slides.html#next-steps",
+    "title": "Wrap-up",
+    "section": "Next Steps",
+    "text": "Next Steps\nFor Term Papers:\n\nApply the complete research cycle\nUse multiple methods for robustness\nDocument your process thoroughly\n\nFor Future Research:\n\nStatistical methods (e.g. chi-squared test, t-test)\nAdvanced corpus analysis (Sketch Engine, english-corpora.org, CQPweb)\nExperimental design software (e.g. Qualtrics, SurveyMonkey)"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#continued-learning-resources",
+    "href": "12_wrap-up/12_wrap-up-slides.html#continued-learning-resources",
+    "title": "Wrap-up",
+    "section": "Continued Learning Resources",
+    "text": "Continued Learning Resources\n\n\n\n\n\nReading methodology framework\n\n\n\n\nGeneral references:\n\nLitosseliti (2025)\nWray and Bloomer (2012)\n\nReferences for further reading in the corresponding course sessions\nOnline tutorials on Sketch Engine and english-corpora.org"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#feedback",
+    "href": "12_wrap-up/12_wrap-up-slides.html#feedback",
+    "title": "Wrap-up",
+    "section": "Feedback",
+    "text": "Feedback\n\n13:37–13:42 (5 minutes) Gather student feedback on course effectiveness and suggestions for improvement.\n\nHelp to improve the course! Quick feedback on:\n\nMost valuable session/topic: What helped you most in your research?\nPractical tools: Which tools will you actually use? (Zotero, Excel, Sketch Engine, survey platforms)\nContent balance: Right mix of theory vs. hands-on practice?\nSession format: Effective use of pair work, group discussions, exercises?\nMissing elements: What would you add to better support linguistic research?\n\n\n\nWhat worked well?\n\nSpecific examples appreciated\n\n\nWhat could be improved?\n\nConstructive suggestions welcome"
+  },
+  {
+    "objectID": "12_wrap-up/12_wrap-up-slides.html#final-questions-discussion",
+    "href": "12_wrap-up/12_wrap-up-slides.html#final-questions-discussion",
+    "title": "Wrap-up",
+    "section": "Final Questions & Discussion",
+    "text": "Final Questions & Discussion\nWhat aspects would you like to explore further in your own research?\n\n13:42–13:45 (3 minutes) Buffer time for final questions and wrap-up.\n\nThank you for an engaging semester!"
   },
   {
     "objectID": "about.html",
