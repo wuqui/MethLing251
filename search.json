@@ -245,6 +245,111 @@
     "text": "Structure of an Abstract\n\n13:25–13:45 (Reference slide)\n\nA good abstract usually includes:\n\nBackground/Motivation: Why is this research important? What is the context? (1–2 sentences)\nProblem/Gap/Research Question: What specific problem does your research address? What is your main question or hypothesis? (1 sentence)\nMethods/Approach: What did you do to answer your question? Briefly describe your data and methods. (1–2 sentences)\nResults/Key Findings: What is your most important finding or argument? (1–2 sentences)\nConclusion/Contribution: What are the implications of your findings? What is your contribution to the field? (1 sentence)"
   },
   {
+    "objectID": "02_self-management-notes/02_self-management-notes.html",
+    "href": "02_self-management-notes/02_self-management-notes.html",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "",
+    "text": "They pinpoint exactly what you need to discover, guiding your choice of data sources and analytical tools\nA vague question leads to unfocused data collection and mismatched methods, risking inconclusive or irrelevant results\n\n\n\n\n\nPhenomenon: Code-switching\n\nDescriptive: “What patterns of code-switching occur among bilingual teenagers in Munich?”\n\nMethod: Corpus analysis of recorded conversations\n\nExplanatory: “Why do bilingual teenagers switch codes more frequently in peer-group settings than in family interactions?”\n\nMethod: Mixed design—interviews to probe motivations plus quantitative counts\n\n\n\n\n\n\n\nMeaning: Defining each concept in measurable, observable terms so data and methods map directly onto your questions\nImportance: Ensures clarity, replicability, and that findings actually address the questions posed\nExample (“politeness”):\n\nDefinition: Use of formal pronouns (Sie vs. du) and mitigators (bitte, könnten Sie…) in German requests\nMeasurement:\n\nCount occurrences of Sie vs. du in a corpus of service-encounter dialogues\nRate politeness markers per utterance (0 = none, 1 = one marker, 2 = multiple markers)\n\n\n\n\n\n\n\ntopic\n\nresearch question 1\n\nhypothesis\n\nwhy? (→ literature)\n\n\nresearch question 2\n\n\n\n\n\n\n\nResearch questions are the “compass” of empirical studies: they define what data you need, how to collect it, and how to analyse it\nThey can emerge from gaps in the literature, existing sites of inquiry (e.g. social events or phenomena), or unexpected findings in your own data\nUnlike precise, testable hypotheses, research questions are broader, exploratory, and open-ended – ideal for qualitative work\nFormulated as Who/What/How/Why/To what extent?, questions may be descriptive (What), explanatory (Why) or evaluative, each suggesting different methods\nKey distinctions:\n\nPrimary vs Secondary (importance/data volume)\nMain/Contributory & Overarching/Subordinate (hierarchies)\nEmpirical/Methodological/Theoretical/Speculative (focus of inquiry)\nResearcher- vs Participant-Generated (whose concerns drive it)\n\nStart with many questions, then narrow to those you can fully address within time/resources\nOperationalizability: define every term clearly and link each question to specific data and methods\nEach question dictates your:\n\nData (e.g. corpus vs interviews)\nCollection design (e.g. experiment vs naturalistic recording)\nTranscription conventions & analytical framework (e.g. corpus analysis, discourse analysis)\n\nIn write-ups, document origins, rationale, operationalization, and map questions to methods (tables/diagrams)"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#discussion",
+    "href": "02_self-management-notes/02_self-management-notes.html#discussion",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "",
+    "text": "They pinpoint exactly what you need to discover, guiding your choice of data sources and analytical tools\nA vague question leads to unfocused data collection and mismatched methods, risking inconclusive or irrelevant results\n\n\n\n\n\nPhenomenon: Code-switching\n\nDescriptive: “What patterns of code-switching occur among bilingual teenagers in Munich?”\n\nMethod: Corpus analysis of recorded conversations\n\nExplanatory: “Why do bilingual teenagers switch codes more frequently in peer-group settings than in family interactions?”\n\nMethod: Mixed design—interviews to probe motivations plus quantitative counts\n\n\n\n\n\n\n\nMeaning: Defining each concept in measurable, observable terms so data and methods map directly onto your questions\nImportance: Ensures clarity, replicability, and that findings actually address the questions posed\nExample (“politeness”):\n\nDefinition: Use of formal pronouns (Sie vs. du) and mitigators (bitte, könnten Sie…) in German requests\nMeasurement:\n\nCount occurrences of Sie vs. du in a corpus of service-encounter dialogues\nRate politeness markers per utterance (0 = none, 1 = one marker, 2 = multiple markers)\n\n\n\n\n\n\n\ntopic\n\nresearch question 1\n\nhypothesis\n\nwhy? (→ literature)\n\n\nresearch question 2"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#key-points",
+    "href": "02_self-management-notes/02_self-management-notes.html#key-points",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "",
+    "text": "Research questions are the “compass” of empirical studies: they define what data you need, how to collect it, and how to analyse it\nThey can emerge from gaps in the literature, existing sites of inquiry (e.g. social events or phenomena), or unexpected findings in your own data\nUnlike precise, testable hypotheses, research questions are broader, exploratory, and open-ended – ideal for qualitative work\nFormulated as Who/What/How/Why/To what extent?, questions may be descriptive (What), explanatory (Why) or evaluative, each suggesting different methods\nKey distinctions:\n\nPrimary vs Secondary (importance/data volume)\nMain/Contributory & Overarching/Subordinate (hierarchies)\nEmpirical/Methodological/Theoretical/Speculative (focus of inquiry)\nResearcher- vs Participant-Generated (whose concerns drive it)\n\nStart with many questions, then narrow to those you can fully address within time/resources\nOperationalizability: define every term clearly and link each question to specific data and methods\nEach question dictates your:\n\nData (e.g. corpus vs interviews)\nCollection design (e.g. experiment vs naturalistic recording)\nTranscription conventions & analytical framework (e.g. corpus analysis, discourse analysis)\n\nIn write-ups, document origins, rationale, operationalization, and map questions to methods (tables/diagrams)"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#plain-text",
+    "href": "02_self-management-notes/02_self-management-notes.html#plain-text",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Plain text",
+    "text": "Plain text\nWYSIWYG: What you see is what you get.\n\nguide: plain-text.co\nadvantages\n\ninteroperability\n\nover time\nwith different tools\nwith other people\nwith LLMs (Large Language Model → ChatGPT)\n\nediting experience: speed, copy & pasting etc.\nexport to different formats: docx, html, pdf\nversion control via git\n\nmost popular format: Markdown"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#networked-notes",
+    "href": "02_self-management-notes/02_self-management-notes.html#networked-notes",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Networked notes",
+    "text": "Networked notes\n\nMental lexicon\n\n\n\nMental lexicon\n\n\n\n\nNetworked notes (concept)\n\n\n\nNetworked notes concept\n\n\n\nZettelkasten method\n\n\n\nZettelkasten method\n\n\n\nOrigin: Sociologist Niklas Luhmann (&gt; 70 books)\nBook: Ahrens (2017)\nWebsite: zettelkasten.de"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#tools",
+    "href": "02_self-management-notes/02_self-management-notes.html#tools",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Tools",
+    "text": "Tools\n\nfree options\n\nObsidian (recommended)\nCapacities\nLogseq\n\npaid: e.g. Notion"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#general-principles",
+    "href": "02_self-management-notes/02_self-management-notes.html#general-principles",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "General principles",
+    "text": "General principles\n\nKeep it simple, both in terms of planning and tools\nAlmost any system can work, as long as it’s a system and you use it consistently"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#setting-smart-goals",
+    "href": "02_self-management-notes/02_self-management-notes.html#setting-smart-goals",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Setting SMART goals",
+    "text": "Setting SMART goals\n\n\n\nSMART goals"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#managing-todos",
+    "href": "02_self-management-notes/02_self-management-notes.html#managing-todos",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Managing TODOs",
+    "text": "Managing TODOs\n\nInclude all your TODOs (from other projects, private commitments)\nSet TODOs the right way:\n\nActionable\nHave a date (scheduled start & deadline)\n\nMake a plan (weekly & daily time slots)\nReview your days, weeks, months, year"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#prioritising-tasks",
+    "href": "02_self-management-notes/02_self-management-notes.html#prioritising-tasks",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Prioritising tasks",
+    "text": "Prioritising tasks\n\nMarbles in a jar\n\n\n\nMarbles in a jar\n\n\n\n\nPareto’s law\n\n\n\nPareto’s law\n\n\n\n20% of actions can give 80% of results\nThe remaining 20% of results will require 80% of the time\n\n\n\nEisenhower matrix\n\n\n\nEisenhower matrix"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#task-management-tools",
+    "href": "02_self-management-notes/02_self-management-notes.html#task-management-tools",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Task management tools",
+    "text": "Task management tools\n\nPen and paper\nDigital tools, e.g., Todoist or TickTick\nNote-taking apps like Logseq/Obsidian"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#frameworks-for-productivity",
+    "href": "02_self-management-notes/02_self-management-notes.html#frameworks-for-productivity",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Frameworks for productivity",
+    "text": "Frameworks for productivity\n\nGetting Things Done (GTD) by David Allen\nZen to Done (ZTD) by Leo Babauta (a simpler version of GTD)"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#making-a-time-plan",
+    "href": "02_self-management-notes/02_self-management-notes.html#making-a-time-plan",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Making a time plan",
+    "text": "Making a time plan\n\nStart with the end in mind: work backwards from the deadline\nUse buffers: everything takes longer than we think\nTools:\n\nCalendar\nGantt charts\n\n\n\n\nGantt chart"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#taking-notes-with-obsidian",
+    "href": "02_self-management-notes/02_self-management-notes.html#taking-notes-with-obsidian",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Taking notes with Obsidian",
+    "text": "Taking notes with Obsidian\n\nInstall Obsidian from obsidian.md\nCreate a new “vault”\nStart drafting your research questions:\n\n\nUse Markdown formatting\nCreate links to related concepts (e.g. [[sociolinguistics]], [[COCA]])\nCheck the graph view for connections between concepts\n\n\nExport your notes as PDF for submission"
+  },
+  {
+    "objectID": "02_self-management-notes/02_self-management-notes.html#self-management-1",
+    "href": "02_self-management-notes/02_self-management-notes.html#self-management-1",
+    "title": "Session 02: Self-management and taking notes",
+    "section": "Self-management",
+    "text": "Self-management\n\nSetting goals\nSet a SMART goal\n\n\nPrioritise\nPrioritise your tasks for the next 7 days:\n\n80/20 Pareto rule\nEisenhower matrix\n\n\n\nManage your time\nMake a specific time plan (for your research project)\n\nTools\n\nDigital calendar\nTeamGantt or similar\n\n\n\nProject agenda\n\nDetermine topic, research questions, hypotheses\nFind and read previous literature\nCollect and pre-process data\nConduct analysis, gather results\nWrite the paper\nRevise your paper"
+  },
+  {
     "objectID": "01_organisation-introduction/01_organisation-introduction.html",
     "href": "01_organisation-introduction/01_organisation-introduction.html",
     "title": "Session 01: Organisation and introduction",
