@@ -1,0 +1,13 @@
+---
+title: "7 Corpus linguistics: searching, analysing and creating corpora"
+subtitle: "Methods in linguistics"
+author: "Quirin Würschinger, LMU Munich"
+date: "2025-06-18"
+date-format: "long"
+---
+
+<iframe src="slides.html" width="100%" height="600" style="border: 1px solid #ccc; border-radius: 5px;"></iframe>
+
+::: {.callout-note}
+Use the space bar to navigate through the slides. Press 'f' for fullscreen mode, or click [here](slides.html) to open the slides in a new window.
+:::
